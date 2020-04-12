@@ -1,0 +1,377 @@
+<nav
+  class="navbar navbar-expand-lg fixed-top navbar-transparent"
+  color-on-scroll="100"
+  id="navbar-top"
+>
+  <div class="container">
+    <div class="navbar-translate">
+      <a
+        class="navbar-brand"
+        [routerLink]="['/home']"
+        placement="bottom"
+        tooltip="Designed and Coded by Creative Tim"
+      >
+        <span> E-Cell• </span>The Entrepreneurship Cell IIT Bombay
+      </a>
+      <button
+        aria-controls="navigation-index"
+        aria-label="Toggle navigation"
+        class="navbar-toggler navbar-toggler"
+        [attr.aria-expanded]="!isCollapsed"
+        (click)="isCollapsed = !isCollapsed"
+        id="navigation"
+        type="button"
+      >
+        <span class="navbar-toggler-bar bar1"> </span>
+        <span class="navbar-toggler-bar bar2"> </span>
+        <span class="navbar-toggler-bar bar3"> </span>
+      </button>
+    </div>
+    <div
+      class="navbar-collapse justify-content-end"
+      [collapse]="isCollapsed"
+      id="navigation"
+    >
+      <div class="navbar-collapse-header">
+        <div class="row">
+          <div class="col-6 collapse-brand"><a> E-Cell• </a></div>
+          <div class="col-6 collapse-close text-right">
+            <button
+              aria-controls="navigation-index"
+              aria-label="Toggle navigation"
+              class="navbar-toggler"
+              [attr.aria-expanded]="!isCollapsed"
+              (click)="isCollapsed = !isCollapsed"
+              id="navigation"
+              type="button"
+            >
+              <i class="tim-icons icon-simple-remove"> </i>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="wrapper">
+    <!-- <div class="page-header">
+      <img class="path" src="assets/img/blob.png" />
+  
+      <img class="path2" src="assets/img/path2.png" />
+  
+      <img class="shapes triangle" src="assets/img/triunghiuri.png" />
+  
+      <img class="shapes wave" src="assets/img/waves.png" />
+  
+      <img class="shapes squares" src="assets/img/patrat.png" />
+  
+      <img class="shapes circle" src="assets/img/cercuri.png" />
+  
+      <div class="content-center">
+        <div
+          class="row row-grid justify-content-between align-items-center text-left"
+        >
+          <div class="col-lg-6 col-md-6">
+            <h1 class="text-white">
+              Events | E-Cell <br />
+            </h1>
+            <p class="text-white mb-3">
+                “Don’t go where the path may lead, go instead where there is no path and leave a trail.”
+            </p>
+        
+          </div>
+          <div class="col-lg-4 col-md-5">
+            <img
+              alt="Circle image"
+              class="img-fluid"
+              src="assets/img/etherum.png"
+            />
+          </div>
+        </div>
+      </div>
+    </div> -->
+
+    <div class="page-header">
+      <div class="page-header-image"></div>
+      <div class="content">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-5 col-md-6 offset-lg-0 offset-md-3">
+              <div class="square square-7" id="square7"></div>
+              <div class="square square-8" id="square8"></div>
+              <div style="margin-top: 220px; margin-left: 75px;">
+                <h1 class="display-2">
+                  Events | E-Cell <br />
+                </h1>
+                <p class="text-white mb-3">
+                    “Don’t go where the path may lead, go instead where there is no path and leave a trail.”
+                </p>
+            
+              </div>
+              <!-- <div class="card card-register">
+                <div class="card-header">
+                  <img
+                    alt="Card image"
+                    class="card-img"
+                    src="assets/img/square1-red.png"
+                  />
+  
+                  <h4 class="card-title">Register</h4>
+                </div>
+                <div class="card-body">
+                  <form class="form">
+                    <div
+                      class="input-group"
+                      [ngClass]="{ 'input-group-focus': focus === true }"
+                    >
+                      <div class="input-group-prepend">
+                        <div class="input-group-text">
+                          <i class="tim-icons icon-single-02"> </i>
+                        </div>
+                      </div>
+                      <input
+                        class="form-control"
+                        placeholder="Full Name"
+                        type="text"
+                        (focus)="focus = true"
+                        (blur)="focus = false"
+                      />
+                    </div>
+                    <div
+                      class="input-group"
+                      [ngClass]="{ 'input-group-focus': focus1 === true }"
+                    >
+                      <div class="input-group-prepend">
+                        <div class="input-group-text">
+                          <i class="tim-icons icon-email-85"> </i>
+                        </div>
+                      </div>
+                      <input
+                        class="form-control"
+                        placeholder="Email"
+                        type="text"
+                        (focus)="focus1 = true"
+                        (blur)="focus1 = false"
+                      />
+                    </div>
+                    <div
+                      class="input-group"
+                      [ngClass]="{ 'input-group-focus': focus2 === true }"
+                    >
+                      <div class="input-group-prepend">
+                        <div class="input-group-text">
+                          <i class="tim-icons icon-lock-circle"> </i>
+                        </div>
+                      </div>
+                      <input
+                        class="form-control"
+                        placeholder="Password"
+                        type="text"
+                        (focus)="focus2 = true"
+                        (blur)="focus2 = false"
+                      />
+                    </div>
+                    <div class="form-check text-left">
+                      <label class="form-check-label">
+                        <input class="form-check-input" type="checkbox" />
+  
+                        <span class="form-check-sign"> </span> I agree to the
+                        <a href="javascript:void(0)"> terms and conditions </a> .
+                      </label>
+                    </div>
+                  </form>
+                </div>
+                <div class="card-footer">
+                  <a
+                    class="btn btn-danger btn-round btn-lg"
+                    href="javascript:void(0)"
+                  >
+                    Get Started
+                  </a>
+                </div>
+              </div> -->
+            </div> 
+          </div>
+          <div class="register-bg"></div>
+          <div class="square square-1" id="square1"></div>
+          <div class="square square-2" id="square2"></div>
+          <div class="square square-3" id="square3"></div>
+          <div class="square square-4" id="square4"></div>
+          <div class="square square-5" id="square5"></div>
+          <div class="square square-6" id="square6"></div>
+        </div>
+      </div>
+    </div>
+
+    <section class="section section-lg section-safe">
+        <img class="path" src="assets/img/path5.png" />
+    
+        <div class="container">
+          <div class="row row-grid justify-content-between">
+            <div class="col-md-5 justify-content-center">
+              <img class="img-fluid floating" src="assets/img/FreshmanOrientation.jpg" style="min-height: 250px;"/>
+            </div>
+            <div class="col-md-6">
+              <div class="px-md-5">
+                <hr class="line-success" />
+    
+                <h3>E-cell Freshmen Orientation</h3>
+                <p>
+                    Hey Freshmen,
+                    Greetings from The Entrepreneurship Cell, IIT Bombay!
+                    
+                    E-cell, IIT Bombay cordially invites you to the E-cell Freshmen Orientation at 6pm on 2nd of August at LT-PCSA. With  plethora of exciting activities and freebies worth 75k, it's going to be a magnificent evening.                    
+                </p>
+                <ul class="list-unstyled mt-5">
+                  <li class="py-2">
+                    <div class="d-flex align-items-center">
+                      <div class="icon icon-success mb-2">
+                        <i class="tim-icons icon-vector"> </i>
+                      </div>
+                      <div class="ml-3"><h6>Where: LT-PCSA</h6></div>
+                    </div>
+                  </li>
+                  <li class="py-2">
+                    <div class="d-flex align-items-center">
+                      <div class="icon icon-success mb-2">
+                        <i class="tim-icons icon-tap-02"> </i>
+                      </div>
+                      <div class="ml-3"><h6>When: 6 pm, 2nd August</h6></div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-lg section-safe" id="section1">
+        <img class="path" src="assets/img/path5.png" />
+    
+        <div class="container">
+          <div class="row row-grid justify-content-between">
+            
+            <div class="col-md-6">
+              <div class="px-md-5">
+                <hr class="line-success" />
+    
+                <h3>How to raise money - Entrepreneurship Bootcamp</h3>
+                <p>
+                    The speaker for today is Mr. Piyush Surana  (http://linkedin.com/in/piyush-surana). This lead investor at the tomorrow capital, has helped growing business take on challenges by making sense of big data and putting structures around their inherent chaos. Having held leadership roles at three unicorns, today he uses his learnings from all aspect of a high growth business in his role as a Venture Capitalist enabling high caliber founders to shape and execute their dreams.
+                </p>
+                <ul class="list-unstyled mt-5">
+                  <li class="py-2">
+                    <div class="d-flex align-items-center">
+                      <div class="icon icon-success mb-2">
+                        <i class="tim-icons icon-vector"> </i>
+                      </div>
+                      <div class="ml-3"><h6>When: 7:45 pm, 21st October</h6></div>
+                    </div>
+                  </li>
+                  <li class="py-2">
+                    <div class="d-flex align-items-center">
+                      <div class="icon icon-success mb-2">
+                        <i class="tim-icons icon-tap-02"> </i>
+                      </div>
+                      <div class="ml-3"><h6>Where: LC-301</h6></div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-md-5 justify-content-center">
+                <img class="img-fluid floating" src="assets/img/mentors_meet.jpg" style="min-height: 250px;" />
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-lg section-safe">
+        <img class="path" src="assets/img/path5.png" />
+    
+        <div class="container">
+          <div class="row row-grid justify-content-between">
+            <div class="col-md-5 justify-content-center">
+              <img class="img-fluid floating" src="assets/img/event_3.jpg" style="min-height: 250px;" />
+            </div>
+            <div class="col-md-6">
+              <div class="px-md-5">
+                <hr class="line-success" />
+    
+                <h3>Wealth Investment Workshop</h3>
+                <p>
+                    The ET Wealth Investment Workshop aims to establish a deeper understanding and awareness about the prevailing trends and safe practices in the markets amongst investors. The Investment Workshop will bring together key stakeholders from across the market and will focus on investor education which would guide the participants on the art of financial goal setting and investment options to secure their future and retire rich.
+                </p>
+                <ul class="list-unstyled mt-5">
+                  <li class="py-2">
+                    <div class="d-flex align-items-center">
+                      <div class="icon icon-success mb-2">
+                        <i class="tim-icons icon-vector"> </i>
+                      </div>
+                      <div class="ml-3"><h6>When: 6:30 pm, August 24</h6></div>
+                    </div>
+                  </li>
+                  <li class="py-2">
+                    <div class="d-flex align-items-center">
+                      <div class="icon icon-success mb-2">
+                        <i class="tim-icons icon-tap-02"> </i>
+                      </div>
+                      <div class="ml-3"><h6>Where: LT-PCSA</h6></div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+
+      <section class="section section-lg section-safe">
+        <img class="path" src="assets/img/path5.png" />
+    
+        <div class="container">
+          <div class="row row-grid justify-content-between">
+            
+            <div class="col-md-6">
+              <div class="px-md-5">
+                <hr class="line-success" />
+    
+                <h3>How to raise money - Entrepreneurship Bootcamp</h3>
+                <p>
+                    The speaker for today is Mr. Piyush Surana  (http://linkedin.com/in/piyush-surana). This lead investor at the tomorrow capital, has helped growing business take on challenges by making sense of big data and putting structures around their inherent chaos. Having held leadership roles at three unicorns, today he uses his learnings from all aspect of a high growth business in his role as a Venture Capitalist enabling high caliber founders to shape and execute their dreams.
+                </p>
+                <ul class="list-unstyled mt-5">
+                  <li class="py-2">
+                    <div class="d-flex align-items-center">
+                      <div class="icon icon-success mb-2">
+                        <i class="tim-icons icon-vector"> </i>
+                      </div>
+                      <div class="ml-3"><h6>When: 7:45 pm, 21st October</h6></div>
+                    </div>
+                  </li>
+                  <li class="py-2">
+                    <div class="d-flex align-items-center">
+                      <div class="icon icon-success mb-2">
+                        <i class="tim-icons icon-tap-02"> </i>
+                      </div>
+                      <div class="ml-3"><h6>Where: LC-301</h6></div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-md-5 justify-content-center">
+                <img class="img-fluid floating" src="assets/img/FreshmanOrientation.jpg" style="min-height: 250px;" />
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+</div>  

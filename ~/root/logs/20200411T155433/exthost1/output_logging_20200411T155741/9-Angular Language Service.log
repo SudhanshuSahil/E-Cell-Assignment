@@ -1,0 +1,5 @@
+[Info  - 3:57:41 pm] Angular language server process ID: 13815
+[Info  - 3:57:41 pm] Using typescript v3.8.3 from /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 3:57:41 pm] Using @angular/language-service v9.1.0 from /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/server/node_modules/@angular/language-service/bundles/language-service.umd.js
+[Info  - 3:57:41 pm] Log file: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/~/root/logs/20200411T155433/exthost1/Angular.ng-template/nglangsvc.log
+[Error - 3:57:45 pm] No config file for /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/check/check.component.html

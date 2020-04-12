@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ecell-assignment": {
+      "hosting": {
+        "blk-design-system-angular": [
+          "ecell-assignment"
+        ]
+      }
+    }
+  }
+}
