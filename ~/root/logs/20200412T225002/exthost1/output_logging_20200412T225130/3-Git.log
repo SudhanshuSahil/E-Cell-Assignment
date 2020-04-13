@@ -1,0 +1,1454 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/pages/examples/profilepage/profilepage.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/pages/examples/profilepage/profilepage.component.html
+> git cat-file -s 5c776818ed8390ce060716c4ef1f0565de169749
+> git check-ignore -v -z --stdin
+> git show :src/app/newlanding/newlanding.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/newlanding/newlanding.component.html
+> git cat-file -s 1d4535a94de3ff458ce0b218e6a27e69142c89e5
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git check-ignore -v -z --stdin
+> git show :src/assets/scss/blk-design-system/bootstrap/_nav.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/assets/scss/blk-design-system/bootstrap/_nav.scss
+> git cat-file -s e647b3884d823b7054f0902572baa6a3109945f7
+> git show :src/assets/scss/blk-design-system/bootstrap/_navbar.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/assets/scss/blk-design-system/bootstrap/_navbar.scss
+> git cat-file -s d62a14d0a54afaa86491fe80ba67389633069005
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/assets/scss/blk-design-system/bootstrap/_navbar.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/assets/scss/blk-design-system/bootstrap/_navbar.scss
+> git cat-file -s d62a14d0a54afaa86491fe80ba67389633069005
+> git show :src/assets/scss/blk-design-system/bootstrap/_code.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/assets/scss/blk-design-system/bootstrap/_code.scss
+> git cat-file -s 9b2e027f4039b66438ab03e0fcb32fba6b33ac39
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app.component.scss
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/pages/pages.module.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/pages/pages.module.ts
+> git cat-file -s f7e696eab6d2af6f494e7123ab8d46115bfa9a8c
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app-routing.module.ts
+> git cat-file -s 7af17af9f8b277a6987a5b8bb307adcfec5e2a21
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app.component.html
+> git cat-file -s 6a164d6971c1e767eae999e03e288a6325ba9ed9
+> git show :src/app/app.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app.component.scss
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git check-ignore -v -z --stdin
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.ts
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git check-ignore -v -z --stdin
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git check-ignore -v -z --stdin
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git check-ignore -v -z --stdin
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git check-ignore -v -z --stdin
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.scss
+> git show :src/app/question2/question2.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git rev-parse master
+> git show :src/app/question2/question2.component.html
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse ques2
+> git rev-parse --symbolic-full-name ques2@{u}
+fatal: no upstream configured for branch 'ques2'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/question2/question2.component.html
+> git show :src/app/question2/question2.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse ques2
+> git rev-parse --symbolic-full-name ques2@{u}
+fatal: no upstream configured for branch 'ques2'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

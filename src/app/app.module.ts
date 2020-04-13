@@ -34,6 +34,7 @@ import { EventsPageComponent } from './events-page/events-page.component';
 
 import { ReactiveFormsModule } from '@angular/forms';
 import { LoginComponent } from './login/login.component';
+import { Question2Component } from './question2/question2.component';
 
 const config = {
   apiKey: "AIzaSyBw10yUAfsUlQbcfMNNnYwBjm5b3t1gqeE",
@@ -52,6 +53,7 @@ const config = {
     NewlandingComponent,
     EventsPageComponent,
     LoginComponent,
+    Question2Component,
     // IndexComponent,
     // ProfilepageComponent,
     // RegisterpageComponent,

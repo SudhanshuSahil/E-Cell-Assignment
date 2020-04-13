@@ -11,13 +11,15 @@ import { CheckComponent } from './check/check.component';
 import { NewlandingComponent } from './newlanding/newlanding.component'
 import { EventsPageComponent } from './events-page/events-page.component';
 import { LoginComponent } from './login/login.component';
+import { Question2Component } from './question2/question2.component';
 
 const routes: Routes = [
-  { path: "", redirectTo: "home", pathMatch: "full" },
+  { path: "", redirectTo: "ques2", pathMatch: "full" },
   { path: "home", component: NewlandingComponent },
   { path: "events", component: EventsPageComponent },
   { path: "register", component: RegisterpageComponent },
   { path: "login", component: LoginComponent },
+  { path: "ques2", component: Question2Component },
 ];
 
 @NgModule({
