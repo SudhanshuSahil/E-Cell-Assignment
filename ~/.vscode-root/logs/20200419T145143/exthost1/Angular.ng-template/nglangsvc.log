@@ -1,0 +1,379 @@
+Info 0    [14:54:11.376] Format host information updated
+Info 1    [14:54:11.376] reload projects.
+Info 2    [14:54:11.376] Structure before ensureProjectForOpenFiles:
+Info 3    [14:54:11.376] Structure after ensureProjectForOpenFiles:
+Info 4    [14:54:11.376] Host file extension mappings updated
+Info 5    [14:54:11.388] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 6    [14:54:11.389] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 7    [14:54:11.389] Opened configuration file /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 8    [14:54:11.512] Config: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json : {
+ "rootNames": [
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/e2e/src/app.e2e-spec.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/e2e/src/app.po.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/main.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/polyfills.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/test.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app-routing.module.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app.component.spec.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app.module.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/check/check.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.spec.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login/login.component.spec.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login/login.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/newlanding/newlanding.component.spec.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/newlanding/newlanding.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/pages/pages.module.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/pages/examples/landingpage/landingpage.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/pages/examples/profilepage/profilepage.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/pages/examples/registerpage/registerpage.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/pages/index/index.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/services/auth.service.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/services/user.model.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/environments/environment.prod.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend",
+  "outDir": "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "module": 5,
+  "moduleResolution": 2,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true,
+  "importHelpers": true,
+  "target": 1,
+  "typeRoots": [
+   "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/node_modules/@types"
+  ],
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json"
+ }
+}
+Info 9    [14:54:12.400] Loading global plugin @angular/language-service
+Info 10   [14:54:12.400] Enabling plugin @angular/language-service from candidate paths: /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/server/node_modules/@angular/language-service/bundles/language-service.umd.js,/home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [14:54:12.400] Loading @angular/language-service from /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/server/node_modules/@angular/language-service/bundles/language-service.umd.js (resolved to /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 12   [14:54:12.531] Plugin validation succeded
+Info 13   [14:54:12.562] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 14   [14:54:15.927] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 1 structureChanged: true Elapsed: 3365ms
+Info 15   [14:54:15.927] Project '/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json' (Configured) 
+Info 16   [14:54:15.927] 	Files (668)
+
+Info 17   [14:54:15.927] -----------------------------------------------
+Info 18   [14:54:15.929] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 19   [14:54:15.949] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 2 structureChanged: false Elapsed: 20ms
+Info 20   [14:54:15.949] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 21   [14:55:29.621] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 22   [14:55:29.622] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 23   [14:55:29.625] Loading global plugin @angular/language-service
+Info 24   [14:55:29.625] Enabling plugin @angular/language-service from candidate paths: /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/server/node_modules/@angular/language-service/bundles/language-service.umd.js,/home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 25   [14:55:29.626] Loading @angular/language-service from /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/server/node_modules/@angular/language-service/bundles/language-service.umd.js (resolved to /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 26   [14:55:29.685] Plugin validation succeded
+Info 27   [14:55:29.687] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 28   [14:55:30.539] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 852ms
+Info 29   [14:55:30.539] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 30   [14:55:30.539] 	Files (99)
+
+Info 31   [14:55:30.539] -----------------------------------------------
+Info 32   [14:55:30.742] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 33   [14:55:30.742] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 34   [14:55:59.986] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 35   [14:55:59.987] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 36   [14:55:59.987] `remove Project::
+Info 37   [14:55:59.987] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 38   [14:55:59.987] 	Files (99)
+
+Info 39   [14:55:59.987] -----------------------------------------------
+Info 40   [14:59:46.959] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 41   [14:59:46.959] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 42   [14:59:52.609] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 43   [14:59:52.662] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 3 structureChanged: false Elapsed: 53ms
+Info 44   [14:59:52.662] Project '/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json' (Configured) 
+Info 45   [14:59:52.662] 	Files (668)
+
+Info 46   [14:59:52.662] -----------------------------------------------
+Info 47   [14:59:58.272] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 48   [14:59:58.323] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 4 structureChanged: false Elapsed: 51ms
+Info 49   [14:59:58.323] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 50   [15:0:14.820] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 51   [15:0:14.872] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 5 structureChanged: false Elapsed: 51ms
+Info 52   [15:0:14.872] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 53   [15:0:34.204] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 54   [15:0:34.204] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 55   [15:1:22.965] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 56   [15:1:22.965] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 57   [15:2:7.203] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 58   [15:2:7.263] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 6 structureChanged: false Elapsed: 60ms
+Info 59   [15:2:7.263] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 60   [15:2:14.306] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 61   [15:2:14.360] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 7 structureChanged: false Elapsed: 54ms
+Info 62   [15:2:14.360] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 63   [15:2:15.583] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 64   [15:2:15.609] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 8 structureChanged: false Elapsed: 26ms
+Info 65   [15:2:15.609] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 66   [15:2:16.845] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 67   [15:2:16.883] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 9 structureChanged: false Elapsed: 38ms
+Info 68   [15:2:16.883] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 69   [15:2:17.888] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 70   [15:2:17.928] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 10 structureChanged: false Elapsed: 39ms
+Info 71   [15:2:17.928] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 72   [15:2:18.236] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 73   [15:2:18.280] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 11 structureChanged: false Elapsed: 44ms
+Info 74   [15:2:18.280] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 75   [15:2:18.797] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 76   [15:2:18.837] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 12 structureChanged: false Elapsed: 39ms
+Info 77   [15:2:18.837] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 78   [15:2:19.106] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 79   [15:2:19.122] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 13 structureChanged: false Elapsed: 16ms
+Info 80   [15:2:19.122] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 81   [15:2:19.775] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 82   [15:2:19.794] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 14 structureChanged: false Elapsed: 19ms
+Info 83   [15:2:19.795] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 84   [15:2:19.812] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 85   [15:2:19.838] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 15 structureChanged: false Elapsed: 26ms
+Info 86   [15:2:19.839] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 87   [15:2:20.2] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 88   [15:2:20.18] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 16 structureChanged: false Elapsed: 16ms
+Info 89   [15:2:20.18] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 90   [15:2:26.636] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 91   [15:2:26.664] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 17 structureChanged: false Elapsed: 27ms
+Info 92   [15:2:26.664] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 93   [15:2:44.70] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 94   [15:2:44.102] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 18 structureChanged: false Elapsed: 32ms
+Info 95   [15:2:44.102] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 96   [15:2:44.768] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 97   [15:2:44.779] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 19 structureChanged: false Elapsed: 11ms
+Info 98   [15:2:44.779] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 99   [15:2:45.242] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 100  [15:2:45.267] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 20 structureChanged: false Elapsed: 25ms
+Info 101  [15:2:45.267] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 102  [15:2:46.968] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 103  [15:2:47.8] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 21 structureChanged: false Elapsed: 40ms
+Info 104  [15:2:47.8] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 105  [15:2:47.520] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 106  [15:2:47.561] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 22 structureChanged: false Elapsed: 41ms
+Info 107  [15:2:47.561] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 108  [15:3:8.819] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 109  [15:3:8.854] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 23 structureChanged: false Elapsed: 35ms
+Info 110  [15:3:8.854] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 111  [15:3:9.478] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 112  [15:3:9.513] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 24 structureChanged: false Elapsed: 35ms
+Info 113  [15:3:9.513] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 114  [15:3:13.36] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 115  [15:3:13.69] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 25 structureChanged: false Elapsed: 33ms
+Info 116  [15:3:13.69] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 117  [15:5:51.824] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app
+Info 118  [15:5:51.824] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app.module.ts :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 119  [15:6:8.393] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 120  [15:6:8.442] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 26 structureChanged: false Elapsed: 49ms
+Info 121  [15:6:8.442] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 122  [15:6:8.975] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 123  [15:6:8.999] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 27 structureChanged: false Elapsed: 24ms
+Info 124  [15:6:8.999] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 125  [15:6:9.451] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 126  [15:6:9.469] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 28 structureChanged: false Elapsed: 18ms
+Info 127  [15:6:9.469] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 128  [15:6:10.364] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 129  [15:6:10.408] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 29 structureChanged: false Elapsed: 43ms
+Info 130  [15:6:10.408] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 131  [15:6:11.411] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 132  [15:6:11.488] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 30 structureChanged: false Elapsed: 77ms
+Info 133  [15:6:11.488] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 134  [15:6:11.873] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 135  [15:6:11.932] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 31 structureChanged: false Elapsed: 59ms
+Info 136  [15:6:11.933] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 137  [15:6:13.56] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 138  [15:6:13.102] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 32 structureChanged: false Elapsed: 46ms
+Info 139  [15:6:13.102] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 140  [15:6:13.785] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 141  [15:6:13.805] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 33 structureChanged: false Elapsed: 20ms
+Info 142  [15:6:13.805] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 143  [15:6:14.913] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 144  [15:6:14.951] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 34 structureChanged: false Elapsed: 38ms
+Info 145  [15:6:14.951] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 146  [15:6:20.258] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 147  [15:6:20.277] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 35 structureChanged: false Elapsed: 19ms
+Info 148  [15:6:20.277] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 149  [15:6:20.910] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 150  [15:6:20.942] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 36 structureChanged: false Elapsed: 32ms
+Info 151  [15:6:20.942] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 152  [15:6:27.320] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 153  [15:6:27.359] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 37 structureChanged: false Elapsed: 39ms
+Info 154  [15:6:27.359] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 155  [15:6:27.938] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 156  [15:6:27.967] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 38 structureChanged: false Elapsed: 29ms
+Info 157  [15:6:27.967] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 158  [15:6:28.275] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 159  [15:6:28.310] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 39 structureChanged: false Elapsed: 35ms
+Info 160  [15:6:28.310] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 161  [15:6:29.620] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 162  [15:6:29.653] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 40 structureChanged: false Elapsed: 33ms
+Info 163  [15:6:29.653] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 164  [15:6:30.46] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 165  [15:6:30.68] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 41 structureChanged: false Elapsed: 22ms
+Info 166  [15:6:30.68] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 167  [15:6:30.526] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 168  [15:6:30.549] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 42 structureChanged: false Elapsed: 23ms
+Info 169  [15:6:30.549] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 170  [15:6:30.938] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 171  [15:6:30.970] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 43 structureChanged: false Elapsed: 32ms
+Info 172  [15:6:30.970] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 173  [15:6:38.941] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 174  [15:6:38.973] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 44 structureChanged: false Elapsed: 32ms
+Info 175  [15:6:38.973] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 176  [15:6:39.771] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 177  [15:6:39.882] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 45 structureChanged: true Elapsed: 111ms
+Info 178  [15:6:39.882] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 179  [15:6:40.176] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 180  [15:6:40.385] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 46 structureChanged: true Elapsed: 208ms
+Info 181  [15:6:40.385] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 182  [15:6:40.413] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 183  [15:6:40.500] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 47 structureChanged: true Elapsed: 87ms
+Info 184  [15:6:40.500] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 185  [15:6:40.884] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 186  [15:6:40.975] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 48 structureChanged: true Elapsed: 91ms
+Info 187  [15:6:40.975] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 188  [15:6:42.107] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 189  [15:6:42.197] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 49 structureChanged: true Elapsed: 90ms
+Info 190  [15:6:42.197] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 191  [15:6:43.823] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 192  [15:6:43.900] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 50 structureChanged: true Elapsed: 77ms
+Info 193  [15:6:43.900] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 194  [15:6:44.195] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 195  [15:6:44.253] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 51 structureChanged: true Elapsed: 58ms
+Info 196  [15:6:44.253] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 197  [15:6:44.983] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 198  [15:6:45.46] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 52 structureChanged: true Elapsed: 63ms
+Info 199  [15:6:45.46] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 200  [15:6:45.383] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 201  [15:6:45.468] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 53 structureChanged: true Elapsed: 85ms
+Info 202  [15:6:45.468] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 203  [15:6:45.850] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 204  [15:6:45.903] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 54 structureChanged: true Elapsed: 53ms
+Info 205  [15:6:45.903] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 206  [15:6:49.863] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 207  [15:6:49.924] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 55 structureChanged: true Elapsed: 61ms
+Info 208  [15:6:49.924] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 209  [15:6:50.175] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 210  [15:6:50.235] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 56 structureChanged: true Elapsed: 60ms
+Info 211  [15:6:50.235] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 212  [15:6:50.720] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 213  [15:6:50.802] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 57 structureChanged: true Elapsed: 82ms
+Info 214  [15:6:50.802] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 215  [15:6:52.385] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 216  [15:6:52.458] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 58 structureChanged: true Elapsed: 73ms
+Info 217  [15:6:52.458] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 218  [15:6:52.696] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 219  [15:6:52.754] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 59 structureChanged: true Elapsed: 58ms
+Info 220  [15:6:52.754] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 221  [15:6:52.981] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 222  [15:6:53.34] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 60 structureChanged: true Elapsed: 53ms
+Info 223  [15:6:53.34] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 224  [15:6:53.715] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 225  [15:6:53.773] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 61 structureChanged: true Elapsed: 58ms
+Info 226  [15:6:53.773] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 227  [15:6:55.637] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 228  [15:6:55.704] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 62 structureChanged: true Elapsed: 67ms
+Info 229  [15:6:55.704] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 230  [15:6:56.127] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 231  [15:6:56.204] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 63 structureChanged: true Elapsed: 77ms
+Info 232  [15:6:56.205] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 233  [15:6:59.357] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 234  [15:6:59.396] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 64 structureChanged: false Elapsed: 39ms
+Info 235  [15:6:59.396] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 236  [15:7:7.146] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 237  [15:7:7.201] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 65 structureChanged: true Elapsed: 55ms
+Info 238  [15:7:7.202] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 239  [15:7:8.362] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 240  [15:7:8.436] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 66 structureChanged: true Elapsed: 74ms
+Info 241  [15:7:8.436] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 242  [15:7:9.486] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 243  [15:7:9.541] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 67 structureChanged: true Elapsed: 55ms
+Info 244  [15:7:9.541] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 245  [15:7:12.771] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 246  [15:7:12.816] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 68 structureChanged: false Elapsed: 45ms
+Info 247  [15:7:12.816] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 248  [15:7:20.139] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login
+Info 249  [15:7:20.139] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login/login.component.ts :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 250  [15:7:40.735] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 251  [15:7:40.863] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 69 structureChanged: true Elapsed: 128ms
+Info 252  [15:7:40.863] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 253  [15:7:46.838] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 254  [15:7:46.861] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 70 structureChanged: false Elapsed: 23ms
+Info 255  [15:7:46.861] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 256  [15:8:1.632] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 257  [15:8:1.682] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 71 structureChanged: false Elapsed: 50ms
+Info 258  [15:8:1.682] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 259  [15:8:6.160] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 260  [15:8:6.210] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 72 structureChanged: false Elapsed: 49ms
+Info 261  [15:8:6.210] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 262  [15:8:12.965] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 263  [15:8:13.0] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 73 structureChanged: false Elapsed: 34ms
+Info 264  [15:8:13.0] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 265  [15:8:32.446] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 266  [15:8:32.480] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 74 structureChanged: false Elapsed: 34ms
+Info 267  [15:8:32.480] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 268  [15:8:41.204] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login
+Info 269  [15:8:41.204] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login/login.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 270  [15:8:41.208] Loading global plugin @angular/language-service
+Info 271  [15:8:41.208] Enabling plugin @angular/language-service from candidate paths: /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/server/node_modules/@angular/language-service/bundles/language-service.umd.js,/home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 272  [15:8:41.208] Loading @angular/language-service from /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/server/node_modules/@angular/language-service/bundles/language-service.umd.js (resolved to /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.0/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 273  [15:8:41.286] Plugin validation succeded
+Info 274  [15:8:41.290] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 275  [15:8:41.373] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 1 structureChanged: true Elapsed: 83ms
+Info 276  [15:8:41.373] Project '/dev/null/inferredProject2*' (Inferred) 
+Info 277  [15:8:41.373] 	Files (99)
+
+Info 278  [15:8:41.373] -----------------------------------------------
+Info 279  [15:8:41.591] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login
+Info 280  [15:8:41.592] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login/login.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 281  [15:8:49.797] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/newlanding
+Info 282  [15:8:49.798] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/newlanding/newlanding.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 283  [15:8:49.799] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 284  [15:8:49.843] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 2 structureChanged: true Elapsed: 43ms
+Info 285  [15:8:49.843] Project '/dev/null/inferredProject2*' (Inferred) 
+Info 286  [15:8:49.843] 	Files (99)
+
+Info 287  [15:8:49.843] -----------------------------------------------
+Info 288  [15:8:50.61] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/newlanding
+Info 289  [15:8:50.61] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/newlanding/newlanding.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 290  [15:8:56.149] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 291  [15:8:56.149] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 292  [15:8:56.149] `remove Project::
+Info 293  [15:8:56.149] Project '/dev/null/inferredProject2*' (Inferred) 
+Info 294  [15:8:56.149] 	Files (99)
+
+Info 295  [15:8:56.149] -----------------------------------------------
+Info 296  [15:10:43.705] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login
+Info 297  [15:10:43.705] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login/login.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 298  [15:12:51.440] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 299  [15:12:51.489] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 75 structureChanged: false Elapsed: 49ms
+Info 300  [15:12:51.489] Project '/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json' (Configured) 
+Info 301  [15:12:51.489] 	Files (668)
+
+Info 302  [15:12:51.489] -----------------------------------------------
+Info 303  [15:12:54.806] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 304  [15:12:54.841] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 76 structureChanged: false Elapsed: 35ms
+Info 305  [15:12:54.841] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 306  [15:12:58.406] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 307  [15:12:58.456] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 77 structureChanged: false Elapsed: 50ms
+Info 308  [15:12:58.456] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 309  [15:13:1.188] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 310  [15:13:1.241] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 78 structureChanged: false Elapsed: 52ms
+Info 311  [15:13:1.241] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 312  [15:13:1.620] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 313  [15:13:1.660] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 79 structureChanged: false Elapsed: 40ms
+Info 314  [15:13:1.660] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 315  [15:13:2.359] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 316  [15:13:2.394] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 80 structureChanged: false Elapsed: 35ms
+Info 317  [15:13:2.394] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 318  [15:13:7.632] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 319  [15:13:7.632] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 320  [15:13:7.632] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 321  [15:13:7.653] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 81 structureChanged: false Elapsed: 21ms
+Info 322  [15:13:7.653] Different program with same set of files:: oldProgram.structureIsReused:: 2

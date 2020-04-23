@@ -1,0 +1,4 @@
+[2020-04-19 14:52:34.923] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: downloading
+    at file:///usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:473:524
+[2020-04-19 14:58:25.303] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-04-19 14:58:25.316] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)

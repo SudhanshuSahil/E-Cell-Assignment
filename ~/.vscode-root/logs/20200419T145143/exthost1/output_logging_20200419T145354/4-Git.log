@@ -1,0 +1,253 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/events-page/events-page.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.scss
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git status -z -u
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git symbolic-ref --short HEAD
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show :src/app/events-page/events-page.component.html
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s b8d5d72d4cb0e1cad32872b6e0bfabf160cfe479
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s b8d5d72d4cb0e1cad32872b6e0bfabf160cfe479
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s b8d5d72d4cb0e1cad32872b6e0bfabf160cfe479
+> git show :src/app/events-page/events-page.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git show :src/app/events-page/events-page.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git check-ignore -v -z --stdin
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git show :src/app/events-page/events-page.component.ts
+> git show :src/app/events-page/events-page.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.scss
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git show :src/app/events-page/events-page.component.scss
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.scss
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app.module.ts
+> git cat-file -s 9f6a6485abf33c019ef2c4395ef556139c3f0f74
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app.module.ts
+> git cat-file -s 9f6a6485abf33c019ef2c4395ef556139c3f0f74
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login/login.component.ts
+> git cat-file -s e1e172bf159a40d8891b54792632550e105ec537
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git show :src/app/login/login.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login/login.component.html
+> git cat-file -s 97393bf3ff84452e99b289b8b5325962d4320695
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git check-ignore -v -z --stdin
+> git show :src/app/newlanding/newlanding.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/newlanding/newlanding.component.html
+> git cat-file -s 1d4535a94de3ff458ce0b218e6a27e69142c89e5
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git show :src/app/login/login.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login/login.component.html
+> git cat-file -s 97393bf3ff84452e99b289b8b5325962d4320695
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2

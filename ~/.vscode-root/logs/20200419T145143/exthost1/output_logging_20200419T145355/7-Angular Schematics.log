@@ -1,0 +1,135 @@
+[Info - 2:53:55 pm] Angular Schematics extension has been activated.
+[Info - 2:53:55 pm] 1 workspace folder(s) detected.
+[Info - 2:53:55 pm] Loading configuration of "angularFrontend" workspace folder.
+[Info - 2:53:55 pm] Loading Angular configuration.
+[Info - 2:53:55 pm] Angular config file for "angularFrontend" workspace folder found at: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/angular.json
+[Info - 2:53:55 pm] Default schematics collection detected in your Angular config: @schematics/angular
+[Info - 2:53:55 pm] 1 Angular project(s) detected.
+[Info - 2:53:55 pm] "blk-design-system-angular" Angular project is of type "application" and its path is: src/app.
+[Info - 2:53:55 pm] Loading "blk-design-system-angular" Angular project's TSLint configuration.
+[Info - 2:53:55 pm] 0 custom component suffixe(s) detected in TSLint config
+[Info - 2:53:55 pm] 0 custom component type(s) detected in the preferences.
+[Info - 2:53:55 pm] "blk-design-system-angular" project is the root Angular project.
+[Info - 2:53:55 pm] Loading global TSLint configuration.
+[Info - 2:53:55 pm] 0 custom component suffixe(s) detected in TSLint config
+[Info - 2:53:55 pm] Loading schematics configuration.
+[Info - 2:53:55 pm] Loading the list of schematics collections.
+[Info - 2:53:55 pm] 0 user schematics collection(s) detected in Code preferences
+[Info - 2:53:55 pm] 1 installed collection(s) detected: @schematics/angular
+[Info - 2:53:55 pm] Loading "@schematics/angular" collection.
+[Info - 2:53:55 pm] 19 schematic(s) detected for "@schematics/angular" collection: ng-new, workspace, serviceWorker, application, e2e, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, universal, appShell, library, webWorker
+[Info - 2:53:55 pm] 15 filtered schematic(s) keeped for "@schematics/angular" collection: serviceWorker, application, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, appShell, library, webWorker
+[Info - 2:53:55 pm] Loading "@schematics/angular:serviceWorker" schematic
+[Info - 2:53:55 pm] 3 options detected for "serviceWorker" schematic: project, target, configuration
+[Info - 2:53:55 pm] 0 required option(s) detected for "serviceWorker" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:application" schematic
+[Info - 2:53:55 pm] 13 options detected for "application" schematic: projectRoot, name, inlineStyle, inlineTemplate, viewEncapsulation, routing, prefix, style, skipTests, skipPackageJson, minimal, skipInstall, lintFix
+[Info - 2:53:55 pm] 0 required option(s) detected for "application" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:class" schematic
+[Info - 2:53:55 pm] 6 options detected for "class" schematic: name, path, project, skipTests, type, lintFix
+[Info - 2:53:55 pm] 0 required option(s) detected for "class" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:component" schematic
+[Info - 2:53:55 pm] 19 options detected for "component" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, type, skipTests, flat, skipImport, selector, skipSelector, module, export, entryComponent, lintFix
+[Info - 2:53:55 pm] 0 required option(s) detected for "component" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:directive" schematic
+[Info - 2:53:55 pm] 11 options detected for "directive" schematic: name, path, project, prefix, skipTests, skipImport, selector, flat, module, export, lintFix
+[Info - 2:53:55 pm] 0 required option(s) detected for "directive" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:enum" schematic
+[Info - 2:53:55 pm] 4 options detected for "enum" schematic: name, path, project, lintFix
+[Info - 2:53:55 pm] 0 required option(s) detected for "enum" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:guard" schematic
+[Info - 2:53:55 pm] 8 options detected for "guard" schematic: name, spec, skipTests, flat, path, project, lintFix, implements
+[Info - 2:53:55 pm] 0 required option(s) detected for "guard" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:interceptor" schematic
+[Info - 2:53:55 pm] 6 options detected for "interceptor" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 2:53:55 pm] 0 required option(s) detected for "interceptor" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:interface" schematic
+[Info - 2:53:55 pm] 6 options detected for "interface" schematic: name, path, project, prefix, type, lintFix
+[Info - 2:53:55 pm] 0 required option(s) detected for "interface" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:module" schematic
+[Info - 2:53:55 pm] 10 options detected for "module" schematic: name, path, project, routing, routingScope, route, flat, commonModule, module, lintFix
+[Info - 2:53:55 pm] 0 required option(s) detected for "module" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:pipe" schematic
+[Info - 2:53:55 pm] 9 options detected for "pipe" schematic: name, path, project, flat, skipTests, skipImport, module, export, lintFix
+[Info - 2:53:55 pm] 0 required option(s) detected for "pipe" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:service" schematic
+[Info - 2:53:55 pm] 6 options detected for "service" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 2:53:55 pm] 0 required option(s) detected for "service" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:appShell" schematic
+[Info - 2:53:55 pm] 16 options detected for "appShell" schematic: clientProject, universalProject, route, name, appId, outDir, root, index, main, test, tsconfigFileName, testTsconfigFileName, appDir, rootModuleFileName, rootModuleClassName, sourceDir
+[Info - 2:53:55 pm] 0 required option(s) detected for "appShell" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:library" schematic
+[Info - 2:53:55 pm] 7 options detected for "library" schematic: name, entryFile, prefix, skipPackageJson, skipInstall, skipTsConfig, lintFix
+[Info - 2:53:55 pm] 0 required option(s) detected for "library" schematic
+[Info - 2:53:55 pm] Loading "@schematics/angular:webWorker" schematic
+[Info - 2:53:55 pm] 5 options detected for "webWorker" schematic: path, project, target, name, snippet
+[Info - 2:53:55 pm] 0 required option(s) detected for "webWorker" schematic
+[Info - 2:53:55 pm] 0 custom component type(s) detected in the preferences.
+[Info - 2:53:55 pm] Lazy-loaded module type: enabled
+[Info - 2:53:55 pm] Configurations of all workspace folders are now ready. Duration: 113ms.
+[Info - 2:57:57 pm] Reloading "angularFrontend" workspace folder configuration.
+[Info - 2:57:57 pm] Loading Angular configuration.
+[Info - 2:57:57 pm] Angular config file for "angularFrontend" workspace folder found at: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/angular.json
+[Info - 2:57:57 pm] Default schematics collection detected in your Angular config: @schematics/angular
+[Info - 2:57:57 pm] 1 Angular project(s) detected.
+[Info - 2:57:57 pm] "blk-design-system-angular" Angular project is of type "application" and its path is: src/app.
+[Info - 2:57:57 pm] Loading "blk-design-system-angular" Angular project's TSLint configuration.
+[Info - 2:57:57 pm] 0 custom component suffixe(s) detected in TSLint config
+[Info - 2:57:57 pm] 0 custom component type(s) detected in the preferences.
+[Info - 2:57:57 pm] "blk-design-system-angular" project is the root Angular project.
+[Info - 2:57:57 pm] Loading global TSLint configuration.
+[Info - 2:57:57 pm] 0 custom component suffixe(s) detected in TSLint config
+[Info - 2:57:57 pm] Loading schematics configuration.
+[Info - 2:57:57 pm] Loading the list of schematics collections.
+[Info - 2:57:57 pm] 0 user schematics collection(s) detected in Code preferences
+[Info - 2:57:57 pm] 1 installed collection(s) detected: @schematics/angular
+[Info - 2:57:57 pm] Loading "@schematics/angular" collection.
+[Info - 2:57:57 pm] 19 schematic(s) detected for "@schematics/angular" collection: ng-new, workspace, serviceWorker, application, e2e, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, universal, appShell, library, webWorker
+[Info - 2:57:57 pm] 15 filtered schematic(s) keeped for "@schematics/angular" collection: serviceWorker, application, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, appShell, library, webWorker
+[Info - 2:57:57 pm] Loading "@schematics/angular:serviceWorker" schematic
+[Info - 2:57:57 pm] 3 options detected for "serviceWorker" schematic: project, target, configuration
+[Info - 2:57:57 pm] 0 required option(s) detected for "serviceWorker" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:application" schematic
+[Info - 2:57:57 pm] 13 options detected for "application" schematic: projectRoot, name, inlineStyle, inlineTemplate, viewEncapsulation, routing, prefix, style, skipTests, skipPackageJson, minimal, skipInstall, lintFix
+[Info - 2:57:57 pm] 0 required option(s) detected for "application" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:class" schematic
+[Info - 2:57:57 pm] 6 options detected for "class" schematic: name, path, project, skipTests, type, lintFix
+[Info - 2:57:57 pm] 0 required option(s) detected for "class" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:component" schematic
+[Info - 2:57:57 pm] 19 options detected for "component" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, type, skipTests, flat, skipImport, selector, skipSelector, module, export, entryComponent, lintFix
+[Info - 2:57:57 pm] 0 required option(s) detected for "component" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:directive" schematic
+[Info - 2:57:57 pm] 11 options detected for "directive" schematic: name, path, project, prefix, skipTests, skipImport, selector, flat, module, export, lintFix
+[Info - 2:57:57 pm] 0 required option(s) detected for "directive" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:enum" schematic
+[Info - 2:57:57 pm] 4 options detected for "enum" schematic: name, path, project, lintFix
+[Info - 2:57:57 pm] 0 required option(s) detected for "enum" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:guard" schematic
+[Info - 2:57:57 pm] 8 options detected for "guard" schematic: name, spec, skipTests, flat, path, project, lintFix, implements
+[Info - 2:57:57 pm] 0 required option(s) detected for "guard" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:interceptor" schematic
+[Info - 2:57:57 pm] 6 options detected for "interceptor" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 2:57:57 pm] 0 required option(s) detected for "interceptor" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:interface" schematic
+[Info - 2:57:57 pm] 6 options detected for "interface" schematic: name, path, project, prefix, type, lintFix
+[Info - 2:57:57 pm] 0 required option(s) detected for "interface" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:module" schematic
+[Info - 2:57:57 pm] 10 options detected for "module" schematic: name, path, project, routing, routingScope, route, flat, commonModule, module, lintFix
+[Info - 2:57:57 pm] 0 required option(s) detected for "module" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:pipe" schematic
+[Info - 2:57:57 pm] 9 options detected for "pipe" schematic: name, path, project, flat, skipTests, skipImport, module, export, lintFix
+[Info - 2:57:57 pm] 0 required option(s) detected for "pipe" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:service" schematic
+[Info - 2:57:57 pm] 6 options detected for "service" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 2:57:57 pm] 0 required option(s) detected for "service" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:appShell" schematic
+[Info - 2:57:57 pm] 16 options detected for "appShell" schematic: clientProject, universalProject, route, name, appId, outDir, root, index, main, test, tsconfigFileName, testTsconfigFileName, appDir, rootModuleFileName, rootModuleClassName, sourceDir
+[Info - 2:57:57 pm] 0 required option(s) detected for "appShell" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:library" schematic
+[Info - 2:57:57 pm] 7 options detected for "library" schematic: name, entryFile, prefix, skipPackageJson, skipInstall, skipTsConfig, lintFix
+[Info - 2:57:57 pm] 0 required option(s) detected for "library" schematic
+[Info - 2:57:57 pm] Loading "@schematics/angular:webWorker" schematic
+[Info - 2:57:57 pm] 5 options detected for "webWorker" schematic: path, project, target, name, snippet
+[Info - 2:57:57 pm] 0 required option(s) detected for "webWorker" schematic
+[Info - 2:57:57 pm] 0 custom component type(s) detected in the preferences.
+[Info - 2:57:57 pm] Lazy-loaded module type: enabled

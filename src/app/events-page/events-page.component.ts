@@ -1,6 +1,7 @@
 import { Component, OnInit, HostListener } from '@angular/core';
 import { trigger, state, transition, style, animate } from '@angular/animations';
 
+
 @Component({
   selector: 'app-events-page',
   templateUrl: './events-page.component.html',
@@ -27,6 +28,8 @@ import { trigger, state, transition, style, animate } from '@angular/animations'
 export class EventsPageComponent implements OnInit {
 
   constructor() { }
+
+  public events = [{"id":5,"name":"q","description":"q","created_at":"2020-04-10T23:18:01.000000Z","updated_at":"2020-04-10T23:18:01.000000Z","user_id":2,"venue":"q","event_image":"Catrobat in mobile_1586560681.png"},{"id":6,"name":"mm","description":"sdfvg","created_at":"2020-04-10T23:30:39.000000Z","updated_at":"2020-04-10T23:30:39.000000Z","user_id":2,"venue":"2wer","event_image":"dark_blue_1586561439.png"},{"id":7,"name":"sdf","description":"sdf","created_at":"2020-04-10T23:31:12.000000Z","updated_at":"2020-04-10T23:38:51.000000Z","user_id":2,"venue":"qwe","event_image":"dark_blue_1586561931.png"},{"id":8,"name":"sdf","description":"wedr","created_at":"2020-04-10T23:32:36.000000Z","updated_at":"2020-04-10T23:32:36.000000Z","user_id":2,"venue":"wert","event_image":"pocket_1586561556.gif"},{"id":9,"name":"asdfghj","description":"wertyuio","created_at":"2020-04-11T06:50:50.000000Z","updated_at":"2020-04-11T06:50:50.000000Z","user_id":3,"venue":"werty7u8i9","event_image":"catrobat_icon_1586587850.jpg"}];
 
   justAfunction() {
     var sect1 = document.getElementById('section1');

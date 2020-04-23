@@ -1,0 +1,120 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app-routing.module.ts
+> git cat-file -s 7af17af9f8b277a6987a5b8bb307adcfec5e2a21
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/app/check/check.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/check/check.component.html
+> git cat-file -s bd567c19f3326a24da7b59cec7428440ebddf88d
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/events-page/events-page.component.ts
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts
+> git cat-file -s f860a9a88b1a3241af270b1987f4943036ef2d51
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git show :src/app/login/login.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login/login.component.html
+> git cat-file -s 97393bf3ff84452e99b289b8b5325962d4320695
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/events-page/events-page.component.html
+> git ls-files --stage -- /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+> git cat-file -s 5fdeeed4c067a773b30b415f4a8c09c8461e4fe2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

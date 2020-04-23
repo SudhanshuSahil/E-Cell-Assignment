@@ -17,8 +17,6 @@
         aria-controls="navigation-index"
         aria-label="Toggle navigation"
         class="navbar-toggler navbar-toggler"
-        [attr.aria-expanded]="!isCollapsed"
-        (click)="isCollapsed = !isCollapsed"
         id="navigation"
         type="button"
       >
@@ -295,6 +293,7 @@
     
         <div class="container">
           <div class="row row-grid justify-content-between">
+
             <div class="col-md-5 justify-content-center">
               <img class="img-fluid floating" src="assets/img/event_3.jpg" style="min-height: 250px;" />
             </div>
@@ -367,6 +366,53 @@
             </div>
 
             <div class="col-md-5 justify-content-center">
+                <img class="img-fluid floating" src="assets/img/FreshmanOrientation.jpg" style="min-height: 250px;" />
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+      <section *ngFor="let event of events; index as i" class="section section-lg section-safe">
+        <!-- <img class="path" src="assets/img/path5.png" /> -->
+    
+        <div class="container">
+          <div class="row row-grid justify-content-between">
+
+            <div *ngIf="i%2==0"  class="col-md-5 justify-content-center">
+              <img class="img-fluid floating" src="assets/img/FreshmanOrientation.jpg" style="min-height: 250px;" />
+          </div>
+            
+            <div class="col-md-6">
+              <div class="px-md-5">
+                <hr class="line-success" />
+    
+                <h3>{{event.name}}</h3>
+                <p>
+                    {{event.description}}
+                </p>
+                <ul class="list-unstyled mt-5">
+                  <li class="py-2">
+                    <div class="d-flex align-items-center">
+                      <div class="icon icon-success mb-2">
+                        <i class="tim-icons icon-vector"> </i>
+                      </div>
+                      <div class="ml-3"><h6>When: 7:45 pm, 21st October</h6></div>
+                    </div>
+                  </li>
+                  <li class="py-2">
+                    <div class="d-flex align-items-center">
+                      <div class="icon icon-success mb-2">
+                        <i class="tim-icons icon-tap-02"> </i>
+                      </div>
+                      <div class="ml-3"><h6>Where: LC-301</h6></div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div *ngIf="i%2==1"  class="col-md-5 justify-content-center">
                 <img class="img-fluid floating" src="assets/img/FreshmanOrientation.jpg" style="min-height: 250px;" />
             </div>
 

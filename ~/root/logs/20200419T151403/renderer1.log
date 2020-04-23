@@ -1,0 +1,2 @@
+[2020-04-19 15:21:10.938] [renderer1] [error] Unable to resolve non-existing file '/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/assets/img/path5.png': EntryNotFound (FileSystemError): Unable to resolve non-existing file '/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/assets/img/path5.png'
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:574:246)

@@ -1,0 +1,967 @@
+Info 0    [15:24:6.674] Format host information updated
+Info 1    [15:24:6.674] reload projects.
+Info 2    [15:24:6.674] Structure before ensureProjectForOpenFiles:
+Info 3    [15:24:6.674] Structure after ensureProjectForOpenFiles:
+Info 4    [15:24:6.674] Host file extension mappings updated
+Info 5    [15:24:6.769] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 6    [15:24:6.770] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 7    [15:24:6.771] Opened configuration file /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 8    [15:24:7.155] Config: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json : {
+ "rootNames": [
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/e2e/src/app.e2e-spec.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/e2e/src/app.po.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/main.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/polyfills.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/test.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app-routing.module.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app.component.spec.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/app.module.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/check/check.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.spec.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login/login.component.spec.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/login/login.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/newlanding/newlanding.component.spec.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/newlanding/newlanding.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/pages/pages.module.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/pages/examples/landingpage/landingpage.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/pages/examples/profilepage/profilepage.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/pages/examples/registerpage/registerpage.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/pages/index/index.component.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/services/auth.service.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/services/user.model.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/environments/environment.prod.ts",
+  "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend",
+  "outDir": "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "module": 5,
+  "moduleResolution": 2,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true,
+  "importHelpers": true,
+  "target": 1,
+  "typeRoots": [
+   "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/node_modules/@types"
+  ],
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json"
+ }
+}
+Info 9    [15:24:8.641] Loading global plugin @angular/language-service
+Info 10   [15:24:8.642] Enabling plugin @angular/language-service from candidate paths: /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.2/server/node_modules/@angular/language-service/bundles/language-service.umd.js,/home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.2/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [15:24:8.642] Loading @angular/language-service from /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.2/server/node_modules/@angular/language-service/bundles/language-service.umd.js (resolved to /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.2/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 12   [15:24:8.773] Plugin validation succeded
+Info 13   [15:24:8.861] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 14   [15:24:15.473] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 1 structureChanged: true Elapsed: 6612ms
+Info 15   [15:24:15.473] Project '/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json' (Configured) 
+Info 16   [15:24:15.473] 	Files (668)
+
+Info 17   [15:24:15.473] -----------------------------------------------
+Info 18   [15:24:15.479] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 19   [15:24:15.534] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 2 structureChanged: false Elapsed: 55ms
+Info 20   [15:24:15.534] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 21   [15:24:15.542] Loading global plugin @angular/language-service
+Info 22   [15:24:15.542] Enabling plugin @angular/language-service from candidate paths: /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.2/server/node_modules/@angular/language-service/bundles/language-service.umd.js,/home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.2/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 23   [15:24:15.542] Loading @angular/language-service from /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.2/server/node_modules/@angular/language-service/bundles/language-service.umd.js (resolved to /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.2/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 24   [15:24:15.568] Plugin validation succeded
+Info 25   [15:24:15.570] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 26   [15:24:17.723] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 2153ms
+Info 27   [15:24:17.723] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 28   [15:24:17.723] 	Files (99)
+
+Info 29   [15:24:17.723] -----------------------------------------------
+Info 30   [15:24:19.866] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 31   [15:24:19.867] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 32   [15:24:20.242] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 33   [15:24:20.311] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 3 structureChanged: false Elapsed: 69ms
+Info 34   [15:24:20.311] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 35   [15:24:20.315] Structure before ensureProjectForOpenFiles:
+Info 36   [15:24:20.316] Structure after ensureProjectForOpenFiles:
+Info 37   [15:24:20.517] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 38   [15:24:20.517] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 39   [15:24:32.646] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 40   [15:24:32.646] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 41   [15:24:32.968] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 42   [15:24:33.51] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 4 structureChanged: false Elapsed: 83ms
+Info 43   [15:24:33.51] Project '/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json' (Configured) 
+Info 44   [15:24:33.51] 	Files (668)
+
+Info 45   [15:24:33.51] -----------------------------------------------
+Info 46   [15:24:33.52] Structure before ensureProjectForOpenFiles:
+Info 47   [15:24:33.52] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 48   [15:24:33.65] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 13ms
+Info 49   [15:24:33.65] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 50   [15:24:33.65] 	Files (0)
+
+Info 51   [15:24:33.65] -----------------------------------------------
+Info 52   [15:24:33.65] Structure after ensureProjectForOpenFiles:
+Info 53   [15:24:34.509] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/~/.vscode-root/User/workspaceStorage/1587288103780/state.vscdb.backup :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 54   [15:24:34.509] Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Detected file add/remove of non supported extension: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/~/.vscode-root/User/workspaceStorage/1587288103780/state.vscdb.backup
+Info 55   [15:24:34.509] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/~/.vscode-root/User/workspaceStorage/1587288103780/state.vscdb.backup :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 56   [15:24:34.510] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/~/.vscode-root/User/workspaceStorage/1587288103780 :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 57   [15:24:34.510] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/~/.vscode-root/User/workspaceStorage/1587288103780 :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 58   [15:24:34.773] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 59   [15:24:34.844] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 5 structureChanged: false Elapsed: 70ms
+Info 60   [15:24:34.844] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 61   [15:24:34.844] Structure before ensureProjectForOpenFiles:
+Info 62   [15:24:34.844] Structure after ensureProjectForOpenFiles:
+Info 63   [15:24:35.511] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 64   [15:24:35.511] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 65   [15:24:35.834] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 66   [15:24:35.880] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 6 structureChanged: false Elapsed: 46ms
+Info 67   [15:24:35.880] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 68   [15:24:35.880] Structure before ensureProjectForOpenFiles:
+Info 69   [15:24:35.880] Structure after ensureProjectForOpenFiles:
+Info 70   [15:24:42.290] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 71   [15:24:42.290] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 72   [15:24:42.610] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 73   [15:24:42.645] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 7 structureChanged: false Elapsed: 35ms
+Info 74   [15:24:42.645] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 75   [15:24:42.646] Structure before ensureProjectForOpenFiles:
+Info 76   [15:24:42.646] Structure after ensureProjectForOpenFiles:
+Info 77   [15:24:52.256] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 78   [15:24:52.256] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 79   [15:24:52.568] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 80   [15:24:52.609] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 8 structureChanged: false Elapsed: 40ms
+Info 81   [15:24:52.609] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 82   [15:24:52.610] Structure before ensureProjectForOpenFiles:
+Info 83   [15:24:52.610] Structure after ensureProjectForOpenFiles:
+Info 84   [15:25:3.165] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 85   [15:25:3.165] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 86   [15:25:3.468] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 87   [15:25:3.481] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 9 structureChanged: false Elapsed: 13ms
+Info 88   [15:25:3.481] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 89   [15:25:3.481] Structure before ensureProjectForOpenFiles:
+Info 90   [15:25:3.481] Structure after ensureProjectForOpenFiles:
+Info 91   [15:26:3.368] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 92   [15:26:3.368] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 93   [15:26:3.671] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 94   [15:26:3.687] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 10 structureChanged: false Elapsed: 16ms
+Info 95   [15:26:3.687] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 96   [15:26:3.687] Structure before ensureProjectForOpenFiles:
+Info 97   [15:26:3.687] Structure after ensureProjectForOpenFiles:
+Info 98   [15:29:27.542] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 99   [15:29:27.543] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 100  [15:29:27.841] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 101  [15:29:27.855] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 11 structureChanged: false Elapsed: 14ms
+Info 102  [15:29:27.855] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 103  [15:29:27.855] Structure before ensureProjectForOpenFiles:
+Info 104  [15:29:27.855] Structure after ensureProjectForOpenFiles:
+Info 105  [15:34:28.645] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 106  [15:34:28.645] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 107  [15:34:28.927] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 108  [15:34:28.940] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 12 structureChanged: false Elapsed: 13ms
+Info 109  [15:34:28.940] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 110  [15:34:28.940] Structure before ensureProjectForOpenFiles:
+Info 111  [15:34:28.940] Structure after ensureProjectForOpenFiles:
+Info 112  [15:39:28.702] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 113  [15:39:28.702] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 114  [15:39:28.982] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 115  [15:39:29.0] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 13 structureChanged: false Elapsed: 18ms
+Info 116  [15:39:29.0] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 117  [15:39:29.7] Structure before ensureProjectForOpenFiles:
+Info 118  [15:39:29.7] Structure after ensureProjectForOpenFiles:
+Info 119  [15:44:28.734] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 120  [15:44:28.735] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 121  [15:44:29.13] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 122  [15:44:29.29] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 14 structureChanged: false Elapsed: 16ms
+Info 123  [15:44:29.29] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 124  [15:44:29.29] Structure before ensureProjectForOpenFiles:
+Info 125  [15:44:29.29] Structure after ensureProjectForOpenFiles:
+Info 126  [15:49:28.790] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 127  [15:49:28.790] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 128  [15:49:29.71] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 129  [15:49:29.84] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 15 structureChanged: false Elapsed: 13ms
+Info 130  [15:49:29.84] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 131  [15:49:29.84] Structure before ensureProjectForOpenFiles:
+Info 132  [15:49:29.84] Structure after ensureProjectForOpenFiles:
+Info 133  [15:54:28.832] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 134  [15:54:28.832] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 135  [15:54:29.117] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 136  [15:54:29.130] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 16 structureChanged: false Elapsed: 12ms
+Info 137  [15:54:29.130] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 138  [15:54:29.130] Structure before ensureProjectForOpenFiles:
+Info 139  [15:54:29.130] Structure after ensureProjectForOpenFiles:
+Info 140  [15:59:28.885] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 141  [15:59:28.885] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 142  [15:59:29.171] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 143  [15:59:29.184] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 17 structureChanged: false Elapsed: 13ms
+Info 144  [15:59:29.185] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 145  [15:59:29.185] Structure before ensureProjectForOpenFiles:
+Info 146  [15:59:29.185] Structure after ensureProjectForOpenFiles:
+Info 147  [16:4:29.567] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 148  [16:4:29.567] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 149  [16:4:29.853] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 150  [16:4:29.866] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 18 structureChanged: false Elapsed: 13ms
+Info 151  [16:4:29.866] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 152  [16:4:29.866] Structure before ensureProjectForOpenFiles:
+Info 153  [16:4:29.866] Structure after ensureProjectForOpenFiles:
+Info 154  [16:9:29.587] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 155  [16:9:29.587] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 156  [16:9:29.868] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 157  [16:9:29.884] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 19 structureChanged: false Elapsed: 16ms
+Info 158  [16:9:29.884] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 159  [16:9:29.885] Structure before ensureProjectForOpenFiles:
+Info 160  [16:9:29.885] Structure after ensureProjectForOpenFiles:
+Info 161  [16:19:20.562] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 162  [16:19:20.563] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.ts :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 163  [16:19:20.563] `remove Project::
+Info 164  [16:19:20.563] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 165  [16:19:20.563] 	Files (0)
+
+Info 166  [16:19:20.563] -----------------------------------------------
+Info 167  [16:19:22.256] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 168  [16:19:22.256] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 169  [16:19:22.545] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 170  [16:19:22.581] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 20 structureChanged: false Elapsed: 36ms
+Info 171  [16:19:22.581] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 172  [16:19:22.581] Structure before ensureProjectForOpenFiles:
+Info 173  [16:19:22.581] Structure after ensureProjectForOpenFiles:
+Info 174  [16:19:26.400] Search path: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page
+Info 175  [16:19:26.400] For info: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html :: Config file name: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 176  [16:19:29.199] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 177  [16:19:29.200] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 178  [16:19:29.502] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 179  [16:19:29.514] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 21 structureChanged: false Elapsed: 12ms
+Info 180  [16:19:29.514] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 181  [16:19:29.530] Structure before ensureProjectForOpenFiles:
+Info 182  [16:19:29.530] Structure after ensureProjectForOpenFiles:
+Info 183  [16:19:42.361] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 184  [16:19:42.383] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 22 structureChanged: false Elapsed: 22ms
+Info 185  [16:19:42.383] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 186  [16:19:43.533] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 187  [16:19:43.558] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 23 structureChanged: false Elapsed: 25ms
+Info 188  [16:19:43.558] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 189  [16:19:44.143] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 190  [16:19:44.143] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 191  [16:19:44.448] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 192  [16:19:44.460] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 24 structureChanged: false Elapsed: 12ms
+Info 193  [16:19:44.460] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 194  [16:19:44.460] Structure before ensureProjectForOpenFiles:
+Info 195  [16:19:44.460] Structure after ensureProjectForOpenFiles:
+Info 196  [16:19:46.42] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 197  [16:19:46.59] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 25 structureChanged: false Elapsed: 17ms
+Info 198  [16:19:46.59] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 199  [16:19:47.436] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 200  [16:19:47.461] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 26 structureChanged: false Elapsed: 25ms
+Info 201  [16:19:47.461] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 202  [16:19:51.78] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 203  [16:19:51.91] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 27 structureChanged: false Elapsed: 13ms
+Info 204  [16:19:51.91] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 205  [16:19:52.411] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 206  [16:19:52.428] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 28 structureChanged: false Elapsed: 17ms
+Info 207  [16:19:52.428] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 208  [16:19:52.658] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 209  [16:19:52.658] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 210  [16:19:52.772] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 211  [16:19:52.787] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 29 structureChanged: false Elapsed: 15ms
+Info 212  [16:19:52.787] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 213  [16:19:53.151] Structure before ensureProjectForOpenFiles:
+Info 214  [16:19:53.151] Structure after ensureProjectForOpenFiles:
+Info 215  [16:19:58.913] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 216  [16:19:58.913] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 217  [16:19:59.217] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 218  [16:19:59.228] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 30 structureChanged: false Elapsed: 11ms
+Info 219  [16:19:59.228] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 220  [16:19:59.229] Structure before ensureProjectForOpenFiles:
+Info 221  [16:19:59.229] Structure after ensureProjectForOpenFiles:
+Info 222  [16:20:13.678] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 223  [16:20:13.697] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 31 structureChanged: false Elapsed: 18ms
+Info 224  [16:20:13.697] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 225  [16:20:16.992] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 226  [16:20:17.7] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 32 structureChanged: false Elapsed: 14ms
+Info 227  [16:20:17.7] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 228  [16:20:17.450] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 229  [16:20:17.480] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 33 structureChanged: false Elapsed: 30ms
+Info 230  [16:20:17.480] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 231  [16:20:18.25] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 232  [16:20:18.59] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 34 structureChanged: false Elapsed: 34ms
+Info 233  [16:20:18.59] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 234  [16:20:18.986] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 235  [16:20:19.11] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 35 structureChanged: false Elapsed: 25ms
+Info 236  [16:20:19.11] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 237  [16:20:19.505] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 238  [16:20:19.542] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 36 structureChanged: false Elapsed: 37ms
+Info 239  [16:20:19.542] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 240  [16:20:19.932] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 241  [16:20:19.968] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 37 structureChanged: false Elapsed: 36ms
+Info 242  [16:20:19.968] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 243  [16:20:20.188] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 244  [16:20:20.237] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 38 structureChanged: false Elapsed: 48ms
+Info 245  [16:20:20.238] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 246  [16:20:20.700] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 247  [16:20:20.716] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 39 structureChanged: false Elapsed: 16ms
+Info 248  [16:20:20.717] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 249  [16:20:21.463] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 250  [16:20:21.498] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 40 structureChanged: false Elapsed: 35ms
+Info 251  [16:20:21.498] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 252  [16:20:21.982] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 253  [16:20:22.21] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 41 structureChanged: false Elapsed: 39ms
+Info 254  [16:20:22.21] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 255  [16:20:23.582] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 256  [16:20:23.620] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 42 structureChanged: false Elapsed: 38ms
+Info 257  [16:20:23.620] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 258  [16:20:26.229] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 259  [16:20:26.263] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 43 structureChanged: false Elapsed: 34ms
+Info 260  [16:20:26.263] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 261  [16:20:27.233] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 262  [16:20:27.271] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 44 structureChanged: false Elapsed: 37ms
+Info 263  [16:20:27.271] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 264  [16:20:28.592] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 265  [16:20:28.631] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 45 structureChanged: false Elapsed: 39ms
+Info 266  [16:20:28.631] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 267  [16:20:30.461] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 268  [16:20:30.501] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 46 structureChanged: false Elapsed: 39ms
+Info 269  [16:20:30.501] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 270  [16:20:31.709] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 271  [16:20:31.744] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 47 structureChanged: false Elapsed: 34ms
+Info 272  [16:20:31.744] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 273  [16:20:32.159] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 274  [16:20:32.176] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 48 structureChanged: false Elapsed: 17ms
+Info 275  [16:20:32.176] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 276  [16:20:32.399] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 277  [16:20:32.431] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 49 structureChanged: false Elapsed: 31ms
+Info 278  [16:20:32.431] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 279  [16:20:32.850] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 280  [16:20:32.867] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 50 structureChanged: false Elapsed: 17ms
+Info 281  [16:20:32.867] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 282  [16:20:33.260] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 283  [16:20:33.294] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 51 structureChanged: false Elapsed: 34ms
+Info 284  [16:20:33.294] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 285  [16:20:34.43] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 286  [16:20:34.78] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 52 structureChanged: false Elapsed: 35ms
+Info 287  [16:20:34.78] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 288  [16:20:41.876] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 289  [16:20:41.910] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 53 structureChanged: false Elapsed: 34ms
+Info 290  [16:20:41.910] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 291  [16:20:43.46] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 292  [16:20:43.85] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 54 structureChanged: false Elapsed: 39ms
+Info 293  [16:20:43.85] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 294  [16:20:45.960] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 295  [16:20:45.996] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 55 structureChanged: false Elapsed: 36ms
+Info 296  [16:20:45.996] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 297  [16:20:46.694] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 298  [16:20:46.729] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 56 structureChanged: false Elapsed: 35ms
+Info 299  [16:20:46.729] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 300  [16:20:47.306] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 301  [16:20:47.357] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 57 structureChanged: false Elapsed: 51ms
+Info 302  [16:20:47.357] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 303  [16:20:47.975] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 304  [16:20:48.13] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 58 structureChanged: false Elapsed: 37ms
+Info 305  [16:20:48.13] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 306  [16:20:48.983] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 307  [16:20:49.27] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 59 structureChanged: false Elapsed: 44ms
+Info 308  [16:20:49.27] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 309  [16:20:50.547] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 310  [16:20:50.583] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 60 structureChanged: false Elapsed: 36ms
+Info 311  [16:20:50.583] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 312  [16:20:50.844] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 313  [16:20:50.879] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 61 structureChanged: false Elapsed: 35ms
+Info 314  [16:20:50.879] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 315  [16:20:51.103] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 316  [16:20:51.141] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 62 structureChanged: false Elapsed: 38ms
+Info 317  [16:20:51.141] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 318  [16:20:51.358] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 319  [16:20:51.389] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 63 structureChanged: false Elapsed: 31ms
+Info 320  [16:20:51.389] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 321  [16:20:51.740] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 322  [16:20:51.777] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 64 structureChanged: false Elapsed: 37ms
+Info 323  [16:20:51.777] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 324  [16:20:52.8] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 325  [16:20:52.46] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 65 structureChanged: false Elapsed: 38ms
+Info 326  [16:20:52.46] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 327  [16:20:52.259] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 328  [16:20:52.295] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 66 structureChanged: false Elapsed: 36ms
+Info 329  [16:20:52.295] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 330  [16:20:52.531] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 331  [16:20:52.564] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 67 structureChanged: false Elapsed: 33ms
+Info 332  [16:20:52.564] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 333  [16:20:52.779] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 334  [16:20:52.814] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 68 structureChanged: false Elapsed: 35ms
+Info 335  [16:20:52.814] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 336  [16:20:53.29] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 337  [16:20:53.63] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 69 structureChanged: false Elapsed: 34ms
+Info 338  [16:20:53.63] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 339  [16:20:53.276] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 340  [16:20:53.316] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 70 structureChanged: false Elapsed: 40ms
+Info 341  [16:20:53.316] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 342  [16:20:53.530] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 343  [16:20:53.569] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 71 structureChanged: false Elapsed: 39ms
+Info 344  [16:20:53.569] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 345  [16:20:53.960] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 346  [16:20:53.995] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 72 structureChanged: false Elapsed: 35ms
+Info 347  [16:20:53.995] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 348  [16:20:54.367] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 349  [16:20:54.408] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 73 structureChanged: false Elapsed: 41ms
+Info 350  [16:20:54.408] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 351  [16:20:54.834] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 352  [16:20:54.869] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 74 structureChanged: false Elapsed: 35ms
+Info 353  [16:20:54.869] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 354  [16:20:55.86] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 355  [16:20:55.119] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 75 structureChanged: false Elapsed: 32ms
+Info 356  [16:20:55.119] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 357  [16:20:55.726] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 358  [16:20:55.762] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 76 structureChanged: false Elapsed: 36ms
+Info 359  [16:20:55.762] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 360  [16:21:0.335] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 361  [16:21:0.336] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 362  [16:21:0.661] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 363  [16:21:0.670] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 77 structureChanged: false Elapsed: 9ms
+Info 364  [16:21:0.670] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 365  [16:21:0.670] Structure before ensureProjectForOpenFiles:
+Info 366  [16:21:0.670] Structure after ensureProjectForOpenFiles:
+Info 367  [16:22:22.317] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 368  [16:22:22.317] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 369  [16:22:22.619] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 370  [16:22:22.629] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 78 structureChanged: false Elapsed: 10ms
+Info 371  [16:22:22.629] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 372  [16:22:22.629] Structure before ensureProjectForOpenFiles:
+Info 373  [16:22:22.629] Structure after ensureProjectForOpenFiles:
+Info 374  [16:22:29.661] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 375  [16:22:29.661] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 376  [16:22:29.941] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 377  [16:22:29.952] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 79 structureChanged: false Elapsed: 11ms
+Info 378  [16:22:29.952] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 379  [16:22:29.952] Structure before ensureProjectForOpenFiles:
+Info 380  [16:22:29.952] Structure after ensureProjectForOpenFiles:
+Info 381  [16:22:32.650] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 382  [16:22:32.687] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 80 structureChanged: false Elapsed: 36ms
+Info 383  [16:22:32.687] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 384  [16:22:33.815] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 385  [16:22:33.836] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 81 structureChanged: false Elapsed: 21ms
+Info 386  [16:22:33.836] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 387  [16:22:34.600] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 388  [16:22:34.636] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 82 structureChanged: false Elapsed: 36ms
+Info 389  [16:22:34.636] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 390  [16:22:35.398] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 391  [16:22:35.412] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 83 structureChanged: false Elapsed: 14ms
+Info 392  [16:22:35.412] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 393  [16:22:35.894] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 394  [16:22:35.919] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 84 structureChanged: false Elapsed: 25ms
+Info 395  [16:22:35.919] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 396  [16:22:36.129] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 397  [16:22:36.145] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 85 structureChanged: false Elapsed: 15ms
+Info 398  [16:22:36.145] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 399  [16:22:36.642] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 400  [16:22:36.674] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 86 structureChanged: false Elapsed: 32ms
+Info 401  [16:22:36.674] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 402  [16:22:37.221] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 403  [16:22:37.257] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 87 structureChanged: false Elapsed: 36ms
+Info 404  [16:22:37.257] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 405  [16:22:37.478] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 406  [16:22:37.501] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 88 structureChanged: false Elapsed: 23ms
+Info 407  [16:22:37.501] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 408  [16:22:37.874] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 409  [16:22:37.915] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 89 structureChanged: false Elapsed: 40ms
+Info 410  [16:22:37.915] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 411  [16:22:38.140] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 412  [16:22:38.186] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 90 structureChanged: false Elapsed: 46ms
+Info 413  [16:22:38.186] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 414  [16:22:38.308] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 415  [16:22:38.327] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 91 structureChanged: false Elapsed: 19ms
+Info 416  [16:22:38.327] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 417  [16:22:40.512] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 418  [16:22:40.545] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 92 structureChanged: false Elapsed: 33ms
+Info 419  [16:22:40.545] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 420  [16:22:48.397] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 421  [16:22:48.397] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 422  [16:22:48.726] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 423  [16:22:48.741] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 93 structureChanged: false Elapsed: 15ms
+Info 424  [16:22:48.741] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 425  [16:22:48.741] Structure before ensureProjectForOpenFiles:
+Info 426  [16:22:48.742] Structure after ensureProjectForOpenFiles:
+Info 427  [16:22:56.180] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 428  [16:22:56.215] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 94 structureChanged: false Elapsed: 35ms
+Info 429  [16:22:56.215] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 430  [16:22:57.185] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 431  [16:22:57.221] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 95 structureChanged: false Elapsed: 36ms
+Info 432  [16:22:57.221] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 433  [16:23:2.403] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 434  [16:23:2.415] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 96 structureChanged: false Elapsed: 12ms
+Info 435  [16:23:2.415] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 436  [16:23:3.25] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 437  [16:23:3.60] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 97 structureChanged: false Elapsed: 35ms
+Info 438  [16:23:3.60] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 439  [16:23:3.275] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 440  [16:23:3.296] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 98 structureChanged: false Elapsed: 21ms
+Info 441  [16:23:3.296] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 442  [16:23:3.508] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 443  [16:23:3.540] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 99 structureChanged: false Elapsed: 31ms
+Info 444  [16:23:3.540] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 445  [16:23:4.367] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 446  [16:23:4.402] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 100 structureChanged: false Elapsed: 35ms
+Info 447  [16:23:4.403] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 448  [16:23:4.548] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 449  [16:23:4.566] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 101 structureChanged: false Elapsed: 18ms
+Info 450  [16:23:4.566] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 451  [16:23:5.181] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 452  [16:23:5.217] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 102 structureChanged: false Elapsed: 36ms
+Info 453  [16:23:5.217] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 454  [16:23:5.228] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 455  [16:23:5.228] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 456  [16:23:5.534] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 457  [16:23:5.543] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 103 structureChanged: false Elapsed: 9ms
+Info 458  [16:23:5.543] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 459  [16:23:5.543] Structure before ensureProjectForOpenFiles:
+Info 460  [16:23:5.543] Structure after ensureProjectForOpenFiles:
+Info 461  [16:23:6.313] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 462  [16:23:6.332] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 104 structureChanged: false Elapsed: 19ms
+Info 463  [16:23:6.332] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 464  [16:23:10.534] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 465  [16:23:10.535] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 466  [16:23:10.832] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 467  [16:23:10.841] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 105 structureChanged: false Elapsed: 9ms
+Info 468  [16:23:10.841] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 469  [16:23:10.841] Structure before ensureProjectForOpenFiles:
+Info 470  [16:23:10.841] Structure after ensureProjectForOpenFiles:
+Info 471  [16:23:55.374] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 472  [16:23:55.391] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 106 structureChanged: false Elapsed: 17ms
+Info 473  [16:23:55.392] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 474  [16:23:55.618] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 475  [16:23:55.655] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 107 structureChanged: false Elapsed: 37ms
+Info 476  [16:23:55.655] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 477  [16:23:55.970] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 478  [16:23:55.996] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 108 structureChanged: false Elapsed: 25ms
+Info 479  [16:23:55.996] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 480  [16:23:56.620] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 481  [16:23:56.658] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 109 structureChanged: false Elapsed: 38ms
+Info 482  [16:23:56.658] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 483  [16:23:57.60] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 484  [16:23:57.95] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 110 structureChanged: false Elapsed: 35ms
+Info 485  [16:23:57.95] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 486  [16:23:58.637] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 487  [16:23:58.638] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 488  [16:23:58.959] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 489  [16:23:58.974] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 111 structureChanged: false Elapsed: 15ms
+Info 490  [16:23:58.974] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 491  [16:23:58.974] Structure before ensureProjectForOpenFiles:
+Info 492  [16:23:58.974] Structure after ensureProjectForOpenFiles:
+Info 493  [16:24:5.380] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 494  [16:24:5.380] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 495  [16:24:5.689] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 496  [16:24:5.699] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 112 structureChanged: false Elapsed: 10ms
+Info 497  [16:24:5.699] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 498  [16:24:5.699] Structure before ensureProjectForOpenFiles:
+Info 499  [16:24:5.699] Structure after ensureProjectForOpenFiles:
+Info 500  [16:24:11.762] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 501  [16:24:11.762] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 502  [16:24:12.71] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 503  [16:24:12.80] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 113 structureChanged: false Elapsed: 9ms
+Info 504  [16:24:12.80] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 505  [16:24:12.80] Structure before ensureProjectForOpenFiles:
+Info 506  [16:24:12.80] Structure after ensureProjectForOpenFiles:
+Info 507  [16:24:29.253] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 508  [16:24:29.253] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 509  [16:24:29.578] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 510  [16:24:29.589] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 114 structureChanged: false Elapsed: 11ms
+Info 511  [16:24:29.589] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 512  [16:24:29.589] Structure before ensureProjectForOpenFiles:
+Info 513  [16:24:29.589] Structure after ensureProjectForOpenFiles:
+Info 514  [16:25:23.97] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 515  [16:25:23.143] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 115 structureChanged: false Elapsed: 46ms
+Info 516  [16:25:23.143] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 517  [16:25:24.987] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 518  [16:25:25.8] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 116 structureChanged: false Elapsed: 20ms
+Info 519  [16:25:25.8] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 520  [16:25:26.916] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 521  [16:25:26.916] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 522  [16:25:27.187] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 523  [16:25:27.196] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 117 structureChanged: false Elapsed: 8ms
+Info 524  [16:25:27.196] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 525  [16:25:27.196] Structure before ensureProjectForOpenFiles:
+Info 526  [16:25:27.196] Structure after ensureProjectForOpenFiles:
+Info 527  [16:26:47.92] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 528  [16:26:47.93] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 529  [16:26:47.407] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 530  [16:26:47.418] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 118 structureChanged: false Elapsed: 11ms
+Info 531  [16:26:47.418] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 532  [16:26:47.418] Structure before ensureProjectForOpenFiles:
+Info 533  [16:26:47.418] Structure after ensureProjectForOpenFiles:
+Info 534  [16:27:46.990] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 535  [16:27:47.35] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 119 structureChanged: false Elapsed: 44ms
+Info 536  [16:27:47.35] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 537  [16:27:47.404] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 538  [16:27:47.443] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 120 structureChanged: false Elapsed: 39ms
+Info 539  [16:27:47.443] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 540  [16:27:48.537] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 541  [16:27:48.577] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 121 structureChanged: false Elapsed: 40ms
+Info 542  [16:27:48.577] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 543  [16:27:48.804] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 544  [16:27:48.839] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 122 structureChanged: false Elapsed: 35ms
+Info 545  [16:27:48.839] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 546  [16:27:49.703] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 547  [16:27:49.742] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 123 structureChanged: false Elapsed: 39ms
+Info 548  [16:27:49.742] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 549  [16:28:5.143] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 550  [16:28:5.143] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 551  [16:28:5.455] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 552  [16:28:5.467] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 124 structureChanged: false Elapsed: 12ms
+Info 553  [16:28:5.467] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 554  [16:28:5.467] Structure before ensureProjectForOpenFiles:
+Info 555  [16:28:5.467] Structure after ensureProjectForOpenFiles:
+Info 556  [16:29:29.299] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 557  [16:29:29.300] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 558  [16:29:29.608] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 559  [16:29:29.620] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 125 structureChanged: false Elapsed: 12ms
+Info 560  [16:29:29.620] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 561  [16:29:29.620] Structure before ensureProjectForOpenFiles:
+Info 562  [16:29:29.620] Structure after ensureProjectForOpenFiles:
+Info 563  [16:31:34.749] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 564  [16:31:34.787] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 126 structureChanged: false Elapsed: 38ms
+Info 565  [16:31:34.787] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 566  [16:31:35.392] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 567  [16:31:35.403] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 127 structureChanged: false Elapsed: 11ms
+Info 568  [16:31:35.403] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 569  [16:31:35.818] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 570  [16:31:35.840] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 128 structureChanged: false Elapsed: 22ms
+Info 571  [16:31:35.840] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 572  [16:31:37.743] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 573  [16:31:37.778] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 129 structureChanged: false Elapsed: 35ms
+Info 574  [16:31:37.779] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 575  [16:31:39.699] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 576  [16:31:39.723] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 130 structureChanged: false Elapsed: 24ms
+Info 577  [16:31:39.724] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 578  [16:31:40.950] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 579  [16:31:40.951] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 580  [16:31:41.255] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 581  [16:31:41.269] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 131 structureChanged: false Elapsed: 14ms
+Info 582  [16:31:41.269] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 583  [16:31:41.269] Structure before ensureProjectForOpenFiles:
+Info 584  [16:31:41.269] Structure after ensureProjectForOpenFiles:
+Info 585  [16:31:43.124] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 586  [16:31:43.139] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 132 structureChanged: false Elapsed: 15ms
+Info 587  [16:31:43.139] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 588  [16:31:44.70] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 589  [16:31:44.114] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 133 structureChanged: false Elapsed: 43ms
+Info 590  [16:31:44.114] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 591  [16:31:45.426] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 592  [16:31:45.460] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 134 structureChanged: false Elapsed: 34ms
+Info 593  [16:31:45.460] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 594  [16:31:45.608] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 595  [16:31:45.608] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 596  [16:31:45.847] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 597  [16:31:45.858] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 135 structureChanged: false Elapsed: 10ms
+Info 598  [16:31:45.858] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 599  [16:31:45.881] Structure before ensureProjectForOpenFiles:
+Info 600  [16:31:45.881] Structure after ensureProjectForOpenFiles:
+Info 601  [16:31:51.660] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 602  [16:31:51.660] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 603  [16:31:51.932] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 604  [16:31:51.941] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 136 structureChanged: false Elapsed: 9ms
+Info 605  [16:31:51.941] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 606  [16:31:51.941] Structure before ensureProjectForOpenFiles:
+Info 607  [16:31:51.941] Structure after ensureProjectForOpenFiles:
+Info 608  [16:32:14.25] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 609  [16:32:14.78] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 137 structureChanged: false Elapsed: 52ms
+Info 610  [16:32:14.78] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 611  [16:32:20.881] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 612  [16:32:20.904] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 138 structureChanged: false Elapsed: 23ms
+Info 613  [16:32:20.904] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 614  [16:32:21.838] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 615  [16:32:21.862] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 139 structureChanged: false Elapsed: 24ms
+Info 616  [16:32:21.862] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 617  [16:32:23.421] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 618  [16:32:23.421] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 619  [16:32:23.713] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 620  [16:32:23.724] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 140 structureChanged: false Elapsed: 11ms
+Info 621  [16:32:23.725] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 622  [16:32:23.725] Structure before ensureProjectForOpenFiles:
+Info 623  [16:32:23.725] Structure after ensureProjectForOpenFiles:
+Info 624  [16:32:25.358] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 625  [16:32:25.370] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 141 structureChanged: false Elapsed: 12ms
+Info 626  [16:32:25.370] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 627  [16:32:26.992] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 628  [16:32:27.24] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 142 structureChanged: false Elapsed: 32ms
+Info 629  [16:32:27.24] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 630  [16:32:28.521] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 631  [16:32:28.539] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 143 structureChanged: false Elapsed: 18ms
+Info 632  [16:32:28.539] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 633  [16:32:28.758] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 634  [16:32:28.791] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 144 structureChanged: false Elapsed: 33ms
+Info 635  [16:32:28.791] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 636  [16:32:29.899] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 637  [16:32:29.929] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 145 structureChanged: false Elapsed: 30ms
+Info 638  [16:32:29.929] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 639  [16:32:33.29] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 640  [16:32:33.47] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 146 structureChanged: false Elapsed: 18ms
+Info 641  [16:32:33.47] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 642  [16:32:39.162] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 643  [16:32:39.215] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 147 structureChanged: false Elapsed: 53ms
+Info 644  [16:32:39.215] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 645  [16:32:47.265] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 646  [16:32:47.265] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 647  [16:32:47.564] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 648  [16:32:47.581] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 148 structureChanged: false Elapsed: 17ms
+Info 649  [16:32:47.581] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 650  [16:32:47.581] Structure before ensureProjectForOpenFiles:
+Info 651  [16:32:47.581] Structure after ensureProjectForOpenFiles:
+Info 652  [16:33:58.230] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 653  [16:33:58.279] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 149 structureChanged: false Elapsed: 49ms
+Info 654  [16:33:58.279] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 655  [16:34:5.239] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 656  [16:34:5.239] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 657  [16:34:5.558] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 658  [16:34:5.579] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 150 structureChanged: false Elapsed: 21ms
+Info 659  [16:34:5.579] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 660  [16:34:5.580] Structure before ensureProjectForOpenFiles:
+Info 661  [16:34:5.580] Structure after ensureProjectForOpenFiles:
+Info 662  [16:34:15.472] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 663  [16:34:15.497] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 151 structureChanged: false Elapsed: 25ms
+Info 664  [16:34:15.497] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 665  [16:34:15.728] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 666  [16:34:15.751] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 152 structureChanged: false Elapsed: 23ms
+Info 667  [16:34:15.752] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 668  [16:34:16.440] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 669  [16:34:16.477] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 153 structureChanged: false Elapsed: 36ms
+Info 670  [16:34:16.477] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 671  [16:34:20.947] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 672  [16:34:20.986] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 154 structureChanged: false Elapsed: 39ms
+Info 673  [16:34:20.986] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 674  [16:34:21.200] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 675  [16:34:21.234] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 155 structureChanged: false Elapsed: 34ms
+Info 676  [16:34:21.234] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 677  [16:34:24.965] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 678  [16:34:24.965] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 679  [16:34:25.270] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 680  [16:34:25.281] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 156 structureChanged: false Elapsed: 11ms
+Info 681  [16:34:25.281] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 682  [16:34:25.281] Structure before ensureProjectForOpenFiles:
+Info 683  [16:34:25.281] Structure after ensureProjectForOpenFiles:
+Info 684  [16:34:29.997] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 685  [16:34:29.997] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 686  [16:34:30.301] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 687  [16:34:30.310] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 157 structureChanged: false Elapsed: 9ms
+Info 688  [16:34:30.310] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 689  [16:34:30.310] Structure before ensureProjectForOpenFiles:
+Info 690  [16:34:30.310] Structure after ensureProjectForOpenFiles:
+Info 691  [16:35:22.530] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 692  [16:35:22.549] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 158 structureChanged: false Elapsed: 19ms
+Info 693  [16:35:22.549] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 694  [16:35:23.703] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 695  [16:35:23.721] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 159 structureChanged: false Elapsed: 18ms
+Info 696  [16:35:23.721] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 697  [16:35:28.543] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 698  [16:35:28.571] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 160 structureChanged: false Elapsed: 28ms
+Info 699  [16:35:28.571] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 700  [16:35:30.783] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 701  [16:35:30.815] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 161 structureChanged: false Elapsed: 32ms
+Info 702  [16:35:30.815] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 703  [16:35:31.30] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 704  [16:35:31.56] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 162 structureChanged: false Elapsed: 26ms
+Info 705  [16:35:31.56] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 706  [16:35:32.125] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 707  [16:35:32.140] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 163 structureChanged: false Elapsed: 15ms
+Info 708  [16:35:32.140] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 709  [16:35:33.254] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 710  [16:35:33.295] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 164 structureChanged: false Elapsed: 41ms
+Info 711  [16:35:33.295] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 712  [16:35:33.325] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 713  [16:35:33.339] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 165 structureChanged: false Elapsed: 14ms
+Info 714  [16:35:33.339] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 715  [16:35:35.82] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 716  [16:35:35.82] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 717  [16:35:35.393] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 718  [16:35:35.405] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 166 structureChanged: false Elapsed: 12ms
+Info 719  [16:35:35.405] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 720  [16:35:35.405] Structure before ensureProjectForOpenFiles:
+Info 721  [16:35:35.405] Structure after ensureProjectForOpenFiles:
+Info 722  [16:35:36.689] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 723  [16:35:36.716] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 167 structureChanged: false Elapsed: 27ms
+Info 724  [16:35:36.716] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 725  [16:35:38.274] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 726  [16:35:38.275] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 727  [16:35:38.550] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 728  [16:35:38.563] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 168 structureChanged: false Elapsed: 13ms
+Info 729  [16:35:38.563] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 730  [16:35:38.563] Structure before ensureProjectForOpenFiles:
+Info 731  [16:35:38.563] Structure after ensureProjectForOpenFiles:
+Info 732  [16:36:5.52] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 733  [16:36:5.52] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 734  [16:36:5.363] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 735  [16:36:5.374] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 169 structureChanged: false Elapsed: 11ms
+Info 736  [16:36:5.374] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 737  [16:36:5.374] Structure before ensureProjectForOpenFiles:
+Info 738  [16:36:5.374] Structure after ensureProjectForOpenFiles:
+Info 739  [16:36:6.64] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 740  [16:36:6.65] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 741  [16:36:6.373] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 742  [16:36:6.384] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 170 structureChanged: false Elapsed: 10ms
+Info 743  [16:36:6.384] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 744  [16:36:6.384] Structure before ensureProjectForOpenFiles:
+Info 745  [16:36:6.384] Structure after ensureProjectForOpenFiles:
+Info 746  [16:37:5.194] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 747  [16:37:5.194] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 748  [16:37:5.482] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 749  [16:37:5.496] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 171 structureChanged: false Elapsed: 14ms
+Info 750  [16:37:5.496] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 751  [16:37:5.496] Structure before ensureProjectForOpenFiles:
+Info 752  [16:37:5.496] Structure after ensureProjectForOpenFiles:
+Info 753  [16:39:30.71] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 754  [16:39:30.71] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 755  [16:39:30.379] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 756  [16:39:30.391] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 172 structureChanged: false Elapsed: 12ms
+Info 757  [16:39:30.391] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 758  [16:39:30.391] Structure before ensureProjectForOpenFiles:
+Info 759  [16:39:30.391] Structure after ensureProjectForOpenFiles:
+Info 760  [16:44:30.134] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 761  [16:44:30.134] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 762  [16:44:30.442] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 763  [16:44:30.454] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 173 structureChanged: false Elapsed: 12ms
+Info 764  [16:44:30.454] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 765  [16:44:30.454] Structure before ensureProjectForOpenFiles:
+Info 766  [16:44:30.454] Structure after ensureProjectForOpenFiles:
+Info 767  [16:49:30.173] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 768  [16:49:30.174] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 769  [16:49:30.482] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 770  [16:49:30.493] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 174 structureChanged: false Elapsed: 11ms
+Info 771  [16:49:30.494] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 772  [16:49:30.494] Structure before ensureProjectForOpenFiles:
+Info 773  [16:49:30.494] Structure after ensureProjectForOpenFiles:
+Info 774  [16:54:30.216] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 775  [16:54:30.216] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 776  [16:54:30.507] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 777  [16:54:30.519] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 175 structureChanged: false Elapsed: 12ms
+Info 778  [16:54:30.519] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 779  [16:54:30.519] Structure before ensureProjectForOpenFiles:
+Info 780  [16:54:30.519] Structure after ensureProjectForOpenFiles:
+Info 781  [16:59:30.256] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 782  [16:59:30.256] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 783  [16:59:30.538] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 784  [16:59:30.550] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 176 structureChanged: false Elapsed: 12ms
+Info 785  [16:59:30.550] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 786  [16:59:30.550] Structure before ensureProjectForOpenFiles:
+Info 787  [16:59:30.550] Structure after ensureProjectForOpenFiles:
+Info 788  [17:4:30.296] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 789  [17:4:30.297] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 790  [17:4:30.604] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 791  [17:4:30.616] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 177 structureChanged: false Elapsed: 11ms
+Info 792  [17:4:30.616] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 793  [17:4:30.616] Structure before ensureProjectForOpenFiles:
+Info 794  [17:4:30.616] Structure after ensureProjectForOpenFiles:
+Info 795  [17:9:30.352] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 796  [17:9:30.352] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 797  [17:9:30.648] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 798  [17:9:30.661] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 178 structureChanged: false Elapsed: 13ms
+Info 799  [17:9:30.661] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 800  [17:9:30.661] Structure before ensureProjectForOpenFiles:
+Info 801  [17:9:30.661] Structure after ensureProjectForOpenFiles:
+Info 802  [17:14:30.405] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 803  [17:14:30.405] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 804  [17:14:30.713] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 805  [17:14:30.725] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 179 structureChanged: false Elapsed: 12ms
+Info 806  [17:14:30.725] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 807  [17:14:30.725] Structure before ensureProjectForOpenFiles:
+Info 808  [17:14:30.725] Structure after ensureProjectForOpenFiles:
+Info 809  [17:19:30.453] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 810  [17:19:30.453] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 811  [17:19:30.745] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 812  [17:19:30.758] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 180 structureChanged: false Elapsed: 13ms
+Info 813  [17:19:30.758] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 814  [17:19:30.758] Structure before ensureProjectForOpenFiles:
+Info 815  [17:19:30.758] Structure after ensureProjectForOpenFiles:
+Info 816  [17:24:30.504] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 817  [17:24:30.505] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 818  [17:24:30.786] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 819  [17:24:30.798] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 181 structureChanged: false Elapsed: 12ms
+Info 820  [17:24:30.798] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 821  [17:24:30.798] Structure before ensureProjectForOpenFiles:
+Info 822  [17:24:30.798] Structure after ensureProjectForOpenFiles:
+Info 823  [17:29:30.559] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 824  [17:29:30.559] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 825  [17:29:30.843] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 826  [17:29:30.856] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 182 structureChanged: false Elapsed: 12ms
+Info 827  [17:29:30.856] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 828  [17:29:30.856] Structure before ensureProjectForOpenFiles:
+Info 829  [17:29:30.856] Structure after ensureProjectForOpenFiles:
+Info 830  [17:34:31.530] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 831  [17:34:31.530] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 832  [17:34:31.821] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 833  [17:34:31.834] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 183 structureChanged: false Elapsed: 13ms
+Info 834  [17:34:31.834] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 835  [17:34:31.834] Structure before ensureProjectForOpenFiles:
+Info 836  [17:34:31.834] Structure after ensureProjectForOpenFiles:
+Info 837  [17:39:31.575] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 838  [17:39:31.576] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 839  [17:39:31.878] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 840  [17:39:31.890] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 184 structureChanged: false Elapsed: 12ms
+Info 841  [17:39:31.890] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 842  [17:39:31.890] Structure before ensureProjectForOpenFiles:
+Info 843  [17:39:31.890] Structure after ensureProjectForOpenFiles:
+Info 844  [17:44:31.603] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 845  [17:44:31.603] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 846  [17:44:31.912] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 847  [17:44:31.925] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 185 structureChanged: false Elapsed: 13ms
+Info 848  [17:44:31.925] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 849  [17:44:31.925] Structure before ensureProjectForOpenFiles:
+Info 850  [17:44:31.925] Structure after ensureProjectForOpenFiles:
+Info 851  [17:49:31.652] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 852  [17:49:31.652] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 853  [17:49:31.938] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 854  [17:49:31.955] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 186 structureChanged: false Elapsed: 17ms
+Info 855  [17:49:31.955] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 856  [17:49:31.955] Structure before ensureProjectForOpenFiles:
+Info 857  [17:49:31.955] Structure after ensureProjectForOpenFiles:
+Info 858  [17:54:31.665] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 859  [17:54:31.665] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 860  [17:54:31.978] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 861  [17:54:31.990] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 187 structureChanged: false Elapsed: 12ms
+Info 862  [17:54:31.990] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 863  [17:54:31.990] Structure before ensureProjectForOpenFiles:
+Info 864  [17:54:31.990] Structure after ensureProjectForOpenFiles:
+Info 865  [17:59:31.719] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 866  [17:59:31.719] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 867  [17:59:32.0] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 868  [17:59:32.12] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 188 structureChanged: false Elapsed: 12ms
+Info 869  [17:59:32.12] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 870  [17:59:32.12] Structure before ensureProjectForOpenFiles:
+Info 871  [17:59:32.12] Structure after ensureProjectForOpenFiles:
+Info 872  [18:4:31.753] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 873  [18:4:31.754] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 874  [18:4:32.45] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 875  [18:4:32.59] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 189 structureChanged: false Elapsed: 14ms
+Info 876  [18:4:32.59] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 877  [18:4:32.59] Structure before ensureProjectForOpenFiles:
+Info 878  [18:4:32.59] Structure after ensureProjectForOpenFiles:
+Info 879  [18:9:31.822] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 880  [18:9:31.822] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 881  [18:9:32.112] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 882  [18:9:32.125] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 190 structureChanged: false Elapsed: 13ms
+Info 883  [18:9:32.125] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 884  [18:9:32.125] Structure before ensureProjectForOpenFiles:
+Info 885  [18:9:32.125] Structure after ensureProjectForOpenFiles:
+Info 886  [18:14:31.876] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 887  [18:14:31.876] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 888  [18:14:32.183] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 889  [18:14:32.195] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 191 structureChanged: false Elapsed: 12ms
+Info 890  [18:14:32.195] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 891  [18:14:32.195] Structure before ensureProjectForOpenFiles:
+Info 892  [18:14:32.195] Structure after ensureProjectForOpenFiles:
+Info 893  [18:19:31.905] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 894  [18:19:31.905] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 895  [18:19:32.214] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 896  [18:19:32.227] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 192 structureChanged: false Elapsed: 13ms
+Info 897  [18:19:32.227] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 898  [18:19:32.227] Structure before ensureProjectForOpenFiles:
+Info 899  [18:19:32.227] Structure after ensureProjectForOpenFiles:
+Info 900  [18:24:31.937] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 901  [18:24:31.938] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 902  [18:24:32.222] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 903  [18:24:32.235] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 193 structureChanged: false Elapsed: 13ms
+Info 904  [18:24:32.235] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 905  [18:24:32.235] Structure before ensureProjectForOpenFiles:
+Info 906  [18:24:32.235] Structure after ensureProjectForOpenFiles:
+Info 907  [18:29:31.999] DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 908  [18:29:31.999] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend :: WatchInfo: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend 1 undefined Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json WatchType: Wild card directory
+Info 909  [18:29:32.308] Starting updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json
+Info 910  [18:29:32.322] Finishing updateGraphWorker: Project: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json Version: 194 structureChanged: false Elapsed: 14ms
+Info 911  [18:29:32.322] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 912  [18:29:32.322] Structure before ensureProjectForOpenFiles:
+Info 913  [18:29:32.322] Structure after ensureProjectForOpenFiles:

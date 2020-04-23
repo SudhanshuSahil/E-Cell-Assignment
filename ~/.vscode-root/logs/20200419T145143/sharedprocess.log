@@ -1,0 +1,28 @@
+[2020-04-19 14:51:46.868] [sharedprocess] [info] main {"machineId":"4f23d28b6720c474555dd4a7680d8d6c454f07b2e786ce7b15ef2e899b5ae2af","windowId":2}
+[2020-04-19 14:51:47.731] [sharedprocess] [info] Deleted from disk cyrilletuzi.angular-schematics /home/sudhanshu/.vscode/extensions/cyrilletuzi.angular-schematics-3.3.1
+[2020-04-19 14:51:47.731] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint /home/sudhanshu/.vscode/extensions/dbaeumer.vscode-eslint-2.1.2
+[2020-04-19 14:51:47.731] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/sudhanshu/.vscode/extensions/esbenp.prettier-vscode-4.2.0
+[2020-04-19 14:51:47.799] [sharedprocess] [info] Deleted from disk mechatroner.rainbow-csv /home/sudhanshu/.vscode/extensions/mechatroner.rainbow-csv-1.6.0
+[2020-04-19 14:51:59.638] [sharedprocess] [info] Installing extension: angular.ng-template
+[2020-04-19 14:51:59.639] [sharedprocess] [info] Installing extension: julialang.language-julia
+[2020-04-19 14:52:26.888] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-04-19 14:52:34.888] [sharedprocess] [error] Failed to install extension: angular.ng-template 
+[2020-04-19 14:52:34.891] [sharedprocess] [error] Failed to install extension: julialang.language-julia 
+[2020-04-19 14:53:56.149] [sharedprocess] [info] Installing extension: angular.ng-template
+[2020-04-19 14:53:56.150] [sharedprocess] [info] Installing extension: julialang.language-julia
+[2020-04-19 14:54:24.328] [sharedprocess] [info] Downloaded extension: julialang.language-julia /tmp/cde83239-c84f-4fc1-ba81-31b566eb285a
+[2020-04-19 14:54:26.331] [sharedprocess] [info] Extracted extension to /home/sudhanshu/.vscode/extensions/.julialang.language-julia-0.15.23: julialang.language-julia
+[2020-04-19 14:54:26.331] [sharedprocess] [info] Renamed to /home/sudhanshu/.vscode/extensions/julialang.language-julia-0.15.23
+[2020-04-19 14:54:26.332] [sharedprocess] [info] Installation completed. julialang.language-julia
+[2020-04-19 14:54:26.594] [sharedprocess] [info] Extensions installed successfully: julialang.language-julia
+[2020-04-19 14:54:28.842] [sharedprocess] [info] Downloaded extension: angular.ng-template /tmp/20780dc1-71d2-4230-9dd7-110438bec135
+[2020-04-19 14:54:30.614] [sharedprocess] [info] Extracted extension to /home/sudhanshu/.vscode/extensions/.angular.ng-template-0.901.2: angular.ng-template
+[2020-04-19 14:54:30.614] [sharedprocess] [info] Renamed to /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.2
+[2020-04-19 14:54:30.616] [sharedprocess] [info] Installation completed. angular.ng-template
+[2020-04-19 14:54:30.726] [sharedprocess] [info] Extensions installed successfully: angular.ng-template
+[2020-04-19 14:57:55.503] [sharedprocess] [info] Installing extension: firefox-devtools.vscode-firefox-debug
+[2020-04-19 14:57:57.347] [sharedprocess] [info] Downloaded extension: firefox-devtools.vscode-firefox-debug /tmp/b3079f78-ec7e-488d-95e7-90e4a66c9783
+[2020-04-19 14:57:57.480] [sharedprocess] [info] Extracted extension to /home/sudhanshu/.vscode/extensions/.firefox-devtools.vscode-firefox-debug-2.7.2: firefox-devtools.vscode-firefox-debug
+[2020-04-19 14:57:57.481] [sharedprocess] [info] Renamed to /home/sudhanshu/.vscode/extensions/firefox-devtools.vscode-firefox-debug-2.7.2
+[2020-04-19 14:57:57.488] [sharedprocess] [info] Installation completed. firefox-devtools.vscode-firefox-debug
+[2020-04-19 14:57:57.533] [sharedprocess] [info] Extensions installed successfully: firefox-devtools.vscode-firefox-debug

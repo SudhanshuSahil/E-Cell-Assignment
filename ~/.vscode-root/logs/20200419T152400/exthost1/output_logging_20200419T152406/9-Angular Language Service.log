@@ -1,0 +1,12 @@
+[Info  - 3:24:06 pm] Angular language server process ID: 9250
+[Info  - 3:24:06 pm] Using typescript v3.8.3 from /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.2/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 3:24:06 pm] Using @angular/language-service v9.1.2 from /home/sudhanshu/.vscode/extensions/angular.ng-template-0.901.2/server/node_modules/@angular/language-service/bundles/language-service.umd.js
+[Info  - 3:24:06 pm] Log file: /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/~/.vscode-root/logs/20200419T152400/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 3:24:17 pm] Enabling language service for /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/tsconfig.json.
+[Error - 3:24:17 pm] No config file for /home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/src/app/events-page/events-page.component.html
+[Error - 4:20:35 pm] Request textDocument/hover failed.
+  Message: Request textDocument/hover failed with message: Cannot read property 'toUpperCase' of undefined
+  Code: -32603 
+[Error - 4:20:44 pm] Request textDocument/hover failed.
+  Message: Request textDocument/hover failed with message: Cannot read property 'toUpperCase' of undefined
+  Code: -32603 

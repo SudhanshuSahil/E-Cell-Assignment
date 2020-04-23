@@ -1,0 +1,7 @@
+[2020-04-19 14:51:43.121] [main] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/sudhanshu/Desktop/E-CELL/Assignment For Interview/angularFrontend/~/.vscode-root/User'
+[2020-04-19 14:51:43.427] [main] [info] update#setState idle
+[2020-04-19 14:52:13.436] [main] [info] update#setState checking for updates
+[2020-04-19 15:08:43.950] [main] [error] Error: net::ERR_ADDRESS_UNREACHABLE
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2623:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-04-19 15:08:43.950] [main] [info] update#setState idle
